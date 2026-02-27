@@ -1,0 +1,501 @@
+survivor_id,shelter_type,group_size,days_survived,weapons_count,food_supply_days,water_supply_days,fitness_level,medical_training,zombie_kills,bitten,morale_score,previous_occupation
+1,Mall,16,40,5,5,4,6,0,7,0,65.1,Medical
+2,Mobile RV,21,10,5,7,15,1,0,231,0,41.3,Office Worker
+3,Fortified Building,20,110,6,23,20,1,1,38,1,28.9,Office Worker
+4,Tree House,13,166,4,21,15,7,0,5,0,35.7,Teacher
+5,Rural Farm,17,13,2,16,11,1,0,17,0,90.8,Engineer
+6,Mobile RV,19,51,2,8,2,1,1,48,0,78.8,Scientist
+7,Tree House,10,79,1,18,12,8,0,22,0,70.8,Student
+8,Tree House,2,157,5,5,12,4,0,5,0,27.1,Chef
+9,Boat,8,46,2,6,16,6,0,44,0,32.5,Athlete
+10,Rural Farm,20,11,1,6,16,1,0,19,0,5.2,Farmer
+11,Boat,19,19,4,1,4,9,0,15,0,14.6,Student
+12,Underground Bunker,29,30,4,22,22,7,0,11,0,96.5,Medical
+13,Tree House,25,52,3,8,23,8,0,7,1,39.9,Farmer
+14,Mall,17,6,1,12,3,2,0,9,0,38.6,Athlete
+15,Mall,20,105,6,7,17,2,0,11,0,32.4,Farmer
+16,Underground Bunker,18,64,6,30,10,8,0,5,0,42.4,Farmer
+17,Hospital,17,15,1,8,8,9,1,53,0,28.9,Military
+18,Fortified Building,23,52,2,2,14,10,0,11,1,50.1,Farmer
+19,Mall,17,49,2,5,5,3,0,1,0,77.9,Office Worker
+20,Boat,5,80,1,10,6,10,0,6,0,46.9,Athlete
+21,Tree House,3,55,3,18,15,8,0,7,1,40.1,Athlete
+22,Mobile RV,19,7,2,60,21,8,0,252,0,43.7,Engineer
+23,Underground Bunker,22,65,2,49,2,5,1,15,0,100.0,Engineer
+24,Mobile RV,11,29,4,19,3,8,0,3,0,39.6,Chef
+25,Mobile RV,3,58,2,4,2,4,0,4,0,70.8,Teacher
+26,Hospital,13,14,3,13,3,5,0,12,0,49.7,Engineer
+27,Hospital,27,73,3,9,4,10,0,18,1,41.8,Scientist
+28,Underground Bunker,24,40,3,3,17,4,0,8,0,92.1,Athlete
+29,Hospital,17,12,0,25,5,6,1,45,0,56.1,Medical
+30,Mobile RV,8,4,3,11,13,5,1,10,0,53.1,Farmer
+31,Mobile RV,23,10,2,10,5,6,1,9,0,50.9,Scientist
+32,Tree House,27,45,3,10,22,10,0,30,0,60.0,Military
+33,Mall,1,91,1,21,3,7,0,270,0,72.5,Farmer
+34,Boat,7,28,2,9,7,3,0,17,0,9.4,Teacher
+35,Mobile RV,5,18,4,5,1,8,0,0,0,67.2,Engineer
+36,Hospital,4,132,1,31,5,2,0,35,0,40.6,Teacher
+37,Mall,20,30,2,4,10,5,0,239,0,30.6,Engineer
+38,Rural Farm,18,29,3,12,41,9,1,23,1,41.0,Chef
+39,Hospital,4,344,3,47,50,10,0,2,1,47.3,Student
+40,Rural Farm,14,72,3,9,27,10,0,98,0,40.7,Military
+41,Mall,10,160,3,4,6,7,0,21,0,64.5,Scientist
+42,Hospital,9,79,3,25,2,4,0,2,0,67.9,Teacher
+43,Mobile RV,19,25,4,11,4,2,1,1,0,57.2,Scientist
+44,Mall,25,131,1,1,23,9,1,0,0,43.7,Scientist
+45,Rural Farm,7,17,0,16,3,2,0,27,1,70.4,Engineer
+46,Underground Bunker,17,284,1,12,8,9,1,75,0,66.8,Medical
+47,Boat,8,60,5,7,9,9,0,32,1,5.0,Student
+48,Mobile RV,1,152,3,35,14,2,0,30,0,55.9,Student
+49,Boat,28,52,1,6,3,2,0,193,0,25.0,Farmer
+50,Fortified Building,1,13,2,18,1,2,1,38,0,50.3,Athlete
+51,Mall,14,21,7,39,6,10,0,0,0,53.1,Student
+52,Fortified Building,28,68,3,19,2,7,0,5,0,41.3,Athlete
+53,Underground Bunker,17,12,1,28,3,2,0,23,0,52.2,Engineer
+54,Fortified Building,16,152,1,119,5,5,0,57,1,21.3,Teacher
+55,Fortified Building,21,20,2,11,20,1,0,9,0,30.9,Medical
+56,Fortified Building,12,59,1,8,3,8,0,50,0,97.9,Farmer
+57,Boat,26,10,7,3,7,9,0,12,0,32.0,Scientist
+58,Mall,19,37,0,10,3,7,0,8,0,70.8,Teacher
+59,Hospital,3,572,2,11,22,4,0,6,0,42.3,Scientist
+60,Boat,2,48,3,8,4,3,0,1,1,45.3,Engineer
+61,Fortified Building,16,39,6,25,2,1,0,12,0,34.0,Engineer
+62,Mall,20,88,1,12,2,10,0,4,0,26.3,Student
+63,Boat,12,122,0,10,12,6,0,648,0,55.2,Scientist
+64,Fortified Building,29,48,3,6,7,9,1,16,0,56.4,Chef
+65,Mobile RV,22,112,3,9,4,4,0,26,0,25.8,Athlete
+66,Boat,14,44,2,17,2,2,0,2,1,81.5,Scientist
+67,Mall,9,29,0,4,3,5,0,28,1,57.2,Farmer
+68,Hospital,29,28,1,19,58,2,0,41,0,58.7,Chef
+69,Fortified Building,14,22,1,47,2,6,0,2,0,17.4,Farmer
+70,Fortified Building,3,15,2,8,8,1,1,1,1,46.5,Student
+71,Boat,18,18,4,6,7,3,0,245,1,69.1,Office Worker
+72,Boat,5,219,5,8,7,4,0,49,0,72.2,Chef
+73,Mall,27,86,5,15,1,7,1,5,0,41.2,Farmer
+74,Mobile RV,26,27,3,24,42,10,0,22,0,36.3,Military
+75,Rural Farm,21,66,2,17,16,5,0,19,0,71.5,Scientist
+76,Fortified Building,9,124,4,16,9,5,0,12,1,65.7,Teacher
+77,Fortified Building,28,85,1,37,5,6,0,2,0,22.8,Farmer
+78,Underground Bunker,14,7,4,42,3,10,0,2,0,40.2,Student
+79,Underground Bunker,12,679,6,14,19,4,0,1,0,17.8,Scientist
+80,Underground Bunker,7,3,3,15,8,4,1,11,0,76.4,Office Worker
+81,Boat,16,192,2,12,8,5,0,5,0,49.3,Athlete
+82,Rural Farm,17,94,3,46,5,7,1,25,0,51.1,Teacher
+83,Hospital,8,198,3,10,3,3,0,1,0,63.9,Teacher
+84,Fortified Building,10,34,1,2,1,8,0,9,0,16.0,Medical
+85,Mall,27,35,3,12,10,9,0,0,0,76.7,Medical
+86,Underground Bunker,14,13,3,18,18,1,1,6,1,82.1,Student
+87,Fortified Building,11,12,0,15,11,7,0,10,0,34.0,Athlete
+88,Rural Farm,7,57,4,6,3,3,1,56,0,38.0,Student
+89,Mall,21,61,2,3,5,7,1,2,1,76.3,Office Worker
+90,Boat,5,35,2,13,2,10,1,23,0,15.4,Student
+91,Mall,2,13,2,11,6,6,0,25,1,32.8,Medical
+92,Mall,19,25,6,5,5,5,0,36,0,96.5,Farmer
+93,Tree House,12,25,2,8,2,9,0,5,0,72.2,Farmer
+94,Mall,22,14,1,4,6,5,1,14,0,71.4,Farmer
+95,Fortified Building,17,183,3,8,3,4,0,85,0,81.9,Chef
+96,Fortified Building,17,59,1,6,9,1,1,54,0,61.7,Office Worker
+97,Boat,11,180,3,7,41,6,0,5,0,76.0,Athlete
+98,Boat,27,104,3,24,6,3,0,3,0,33.1,Teacher
+99,Mall,22,62,4,62,9,1,0,6,0,55.7,Engineer
+100,Tree House,25,1224,3,10,5,6,0,6,0,31.2,Engineer
+101,Mall,13,86,2,4,17,2,0,137,0,44.4,Teacher
+102,Boat,5,129,4,10,20,2,0,5,0,68.6,Scientist
+103,Mobile RV,28,15,6,6,2,4,0,12,0,53.4,Farmer
+104,Rural Farm,11,343,3,19,4,6,1,2,0,31.9,Chef
+105,Hospital,12,58,4,11,11,3,0,4,0,65.2,Engineer
+106,Fortified Building,4,39,5,11,3,6,0,3,0,82.4,Medical
+107,Fortified Building,24,35,2,4,5,10,1,9,0,33.1,Student
+108,Hospital,16,43,3,14,14,3,0,4,0,72.5,Engineer
+109,Mobile RV,5,201,3,10,22,7,0,5,0,93.7,Medical
+110,Mall,10,292,2,8,5,10,0,9,0,50.0,Athlete
+111,Mobile RV,19,24,1,15,5,6,0,0,0,17.6,Student
+112,Hospital,27,158,6,20,21,3,0,12,0,36.4,Medical
+113,Mall,11,142,2,9,7,1,1,29,0,49.5,Office Worker
+114,Underground Bunker,20,180,4,42,28,10,1,10,1,47.1,Office Worker
+115,Mall,2,139,4,6,2,5,1,28,0,46.3,Office Worker
+116,Hospital,18,85,3,12,9,8,0,18,0,56.8,Office Worker
+117,Mobile RV,1,22,2,13,6,10,0,11,0,100.0,Military
+118,Rural Farm,2,10,3,3,11,2,0,19,0,54.0,Military
+119,Underground Bunker,21,19,2,8,11,6,0,1,0,77.9,Engineer
+120,Mobile RV,10,100,4,25,7,7,0,10,0,21.7,Office Worker
+121,Tree House,1,36,5,12,6,2,0,24,0,51.6,Engineer
+122,Fortified Building,5,22,3,13,12,4,1,5,0,45.1,Engineer
+123,Fortified Building,14,154,4,4,4,9,0,50,0,13.6,Farmer
+124,Mobile RV,9,45,2,10,14,2,0,4,0,45.0,Office Worker
+125,Rural Farm,3,21,4,5,5,4,0,2,0,74.3,Student
+126,Underground Bunker,24,20,2,7,6,1,1,88,0,76.4,Teacher
+127,Rural Farm,18,57,2,7,7,9,0,166,0,35.9,Chef
+128,Underground Bunker,12,93,7,47,10,4,1,199,0,65.1,Student
+129,Underground Bunker,19,148,3,10,11,8,0,5,0,61.0,Engineer
+130,Tree House,8,14,3,15,4,3,0,9,0,40.4,Teacher
+131,Mall,1,31,2,9,4,1,0,10,1,72.0,Chef
+132,Mobile RV,26,127,5,17,3,8,1,2,0,60.3,Student
+133,Hospital,3,42,2,4,3,4,1,19,0,43.4,Farmer
+134,Hospital,17,36,3,5,7,4,1,0,0,69.6,Chef
+135,Fortified Building,29,38,4,16,2,8,0,15,0,13.1,Medical
+136,Mall,29,32,3,7,5,5,0,11,1,47.4,Engineer
+137,Rural Farm,27,141,1,20,3,4,0,5,0,54.1,Chef
+138,Rural Farm,20,42,3,2,3,4,0,9,1,64.5,Medical
+139,Rural Farm,8,17,4,7,10,1,0,172,0,30.5,Athlete
+140,Hospital,15,67,4,42,3,1,1,8,0,72.6,Chef
+141,Mobile RV,19,23,4,64,9,9,0,10,0,86.4,Scientist
+142,Boat,28,67,1,11,2,8,1,24,0,69.8,Athlete
+143,Fortified Building,11,16,3,9,13,3,0,17,0,45.8,Engineer
+144,Underground Bunker,14,65,4,19,1,7,0,2,0,57.2,Chef
+145,Tree House,12,48,1,14,7,7,1,23,0,5.0,Medical
+146,Underground Bunker,14,45,2,5,4,1,0,883,0,49.7,Engineer
+147,Mobile RV,5,12,3,18,6,1,1,16,0,61.8,Farmer
+148,Boat,24,76,3,9,28,10,0,33,1,34.2,Farmer
+149,Fortified Building,22,38,4,17,4,7,0,67,0,66.0,Office Worker
+150,Tree House,17,35,4,29,12,7,0,10,0,47.8,Office Worker
+151,Mall,25,61,4,7,9,5,1,4,0,77.7,Military
+152,Boat,8,69,2,6,1,6,0,5,0,10.9,Student
+153,Fortified Building,17,44,5,17,2,4,0,0,0,53.7,Medical
+154,Tree House,13,20,2,33,36,1,0,30,0,43.0,Engineer
+155,Rural Farm,11,28,1,27,4,1,0,8,0,36.2,Scientist
+156,Mobile RV,22,34,1,3,11,3,1,103,0,41.0,Farmer
+157,Boat,3,197,7,6,7,4,0,7,0,24.2,Military
+158,Underground Bunker,11,357,4,15,17,2,0,2,0,51.6,Medical
+159,Rural Farm,15,47,2,9,31,3,0,20,0,61.6,Engineer
+160,Fortified Building,6,71,2,23,5,5,1,3,0,42.1,Engineer
+161,Mall,1,95,4,8,4,10,0,14,0,51.1,Engineer
+162,Mobile RV,12,83,3,34,3,9,0,19,0,56.6,Athlete
+163,Rural Farm,13,49,2,7,29,5,0,5,0,61.8,Office Worker
+164,Tree House,17,135,2,11,5,2,0,72,0,47.9,Scientist
+165,Rural Farm,20,60,8,4,28,7,0,361,0,44.7,Engineer
+166,Rural Farm,29,56,2,3,9,4,0,77,0,60.1,Teacher
+167,Rural Farm,1,149,0,59,18,10,0,59,0,51.0,Athlete
+168,Mobile RV,18,31,2,21,3,7,0,26,0,58.1,Student
+169,Mall,18,15,3,31,2,3,0,7,0,47.2,Chef
+170,Tree House,26,38,2,4,4,7,1,0,0,37.4,Military
+171,Mobile RV,29,39,4,17,10,2,0,5,0,49.5,Engineer
+172,Boat,10,14,1,55,9,5,1,7,0,45.9,Chef
+173,Mobile RV,11,45,1,15,6,8,0,3,0,71.1,Medical
+174,Mobile RV,16,202,3,29,12,8,0,1,0,46.0,Chef
+175,Tree House,2,10,5,37,8,9,0,91,0,76.2,Athlete
+176,Tree House,13,57,4,9,7,10,0,12,0,89.3,Student
+177,Mall,15,28,4,22,14,9,0,3,1,70.0,Athlete
+178,Underground Bunker,14,31,2,31,13,3,0,32,0,100.0,Farmer
+179,Tree House,10,146,1,12,18,3,1,26,0,78.6,Student
+180,Tree House,18,32,2,2,4,6,0,15,0,5.0,Chef
+181,Underground Bunker,9,57,6,20,14,9,0,12,0,54.1,Student
+182,Hospital,20,64,3,7,20,2,0,3,0,45.0,Scientist
+183,Mall,12,27,6,12,4,10,0,10,0,57.7,Teacher
+184,Fortified Building,19,57,3,11,17,3,0,51,0,18.5,Engineer
+185,Boat,4,188,5,9,4,3,0,1,0,56.6,Farmer
+186,Boat,6,42,5,23,15,7,0,1,1,64.1,Scientist
+187,Fortified Building,28,146,2,10,15,10,0,65,0,31.8,Military
+188,Underground Bunker,8,121,1,25,2,3,0,7,0,47.8,Medical
+189,Mobile RV,28,70,2,6,6,3,0,26,1,35.3,Student
+190,Tree House,26,21,2,22,2,3,0,14,0,42.9,Student
+191,Boat,4,59,2,6,7,3,0,0,0,45.9,Farmer
+192,Tree House,18,119,3,10,11,5,0,4,0,48.9,Chef
+193,Fortified Building,2,202,3,10,13,9,0,0,0,53.2,Chef
+194,Hospital,16,43,3,44,3,5,0,23,0,46.2,Farmer
+195,Mobile RV,20,59,1,5,19,3,0,15,0,48.0,Farmer
+196,Boat,18,45,6,8,54,10,1,1,0,88.6,Engineer
+197,Mobile RV,28,260,4,16,5,2,0,42,0,22.5,Engineer
+198,Hospital,25,142,5,11,26,4,0,3,0,12.4,Teacher
+199,Underground Bunker,17,89,6,21,6,6,0,0,0,66.4,Teacher
+200,Fortified Building,15,130,5,5,34,1,0,11,0,34.3,Student
+201,Underground Bunker,28,59,1,32,30,8,0,2,0,85.5,Chef
+202,Mall,8,73,5,8,6,8,1,62,0,71.2,Farmer
+203,Underground Bunker,19,33,4,10,6,8,0,7,0,55.1,Scientist
+204,Mall,2,45,4,12,9,6,0,57,0,35.9,Student
+205,Underground Bunker,12,172,5,72,6,4,0,2,0,42.1,Farmer
+206,Rural Farm,18,118,4,10,16,2,0,5,0,33.5,Military
+207,Underground Bunker,12,125,5,14,9,6,1,2,0,62.1,Farmer
+208,Tree House,27,4,7,9,3,2,0,18,0,34.4,Athlete
+209,Mobile RV,23,27,3,41,3,9,1,11,0,22.2,Chef
+210,Tree House,23,34,4,17,4,9,0,3,0,26.7,Farmer
+211,Underground Bunker,26,37,1,6,14,2,0,133,0,41.5,Student
+212,Tree House,5,55,2,10,7,5,0,6,1,31.0,Medical
+213,Rural Farm,8,23,5,20,4,1,1,15,0,77.3,Engineer
+214,Fortified Building,1,15,1,8,30,8,1,26,0,28.8,Medical
+215,Tree House,21,73,2,17,15,9,0,5,0,54.0,Engineer
+216,Boat,28,57,1,4,8,4,1,14,0,66.1,Teacher
+217,Hospital,7,17,1,96,3,5,1,20,0,75.8,Student
+218,Fortified Building,27,44,4,31,4,10,0,19,0,55.3,Engineer
+219,Hospital,11,14,2,20,1,5,0,3,0,61.4,Medical
+220,Mall,12,52,4,16,9,10,0,23,0,64.8,Engineer
+221,Tree House,10,28,1,6,5,1,1,11,0,47.4,Office Worker
+222,Fortified Building,3,68,3,10,11,2,0,5,0,58.5,Farmer
+223,Fortified Building,23,27,0,17,52,2,0,0,0,42.0,Medical
+224,Underground Bunker,25,62,5,9,5,9,0,6,0,68.5,Student
+225,Hospital,29,27,4,15,5,7,0,41,0,61.0,Engineer
+226,Hospital,1,53,1,2,13,2,1,48,0,69.0,Military
+227,Boat,6,23,2,45,4,6,0,0,0,16.9,Office Worker
+228,Mobile RV,27,32,3,18,2,10,1,2,0,38.7,Student
+229,Hospital,8,36,2,8,2,10,0,15,0,40.0,Farmer
+230,Mall,23,48,3,21,3,4,1,2,1,26.6,Medical
+231,Fortified Building,8,76,6,16,5,4,1,4,0,43.6,Scientist
+232,Tree House,26,94,9,19,9,10,0,325,0,37.1,Engineer
+233,Hospital,21,235,6,5,21,1,0,18,0,65.3,Engineer
+234,Underground Bunker,19,89,3,9,7,9,1,2,0,54.7,Scientist
+235,Tree House,7,16,2,10,9,3,1,0,1,64.9,Scientist
+236,Rural Farm,19,81,5,15,18,6,0,2,0,57.4,Engineer
+237,Mall,23,75,4,16,13,1,0,2,0,37.1,Teacher
+238,Fortified Building,20,46,3,4,6,5,0,27,0,40.3,Scientist
+239,Tree House,9,8,0,41,24,2,0,305,0,37.5,Medical
+240,Rural Farm,5,11,4,7,3,7,0,6,0,65.8,Engineer
+241,Hospital,2,2,7,5,5,8,0,2,0,35.3,Scientist
+242,Underground Bunker,4,47,4,16,13,10,0,33,1,53.7,Athlete
+243,Rural Farm,10,103,2,21,24,10,1,21,0,39.2,Athlete
+244,Fortified Building,1,49,3,6,7,5,0,3,0,55.3,Farmer
+245,Fortified Building,22,211,1,6,2,9,1,8,1,23.4,Scientist
+246,Rural Farm,17,104,4,15,19,6,0,21,1,31.0,Chef
+247,Boat,29,49,3,28,9,3,0,7,1,37.1,Farmer
+248,Fortified Building,5,18,4,25,4,3,0,6,0,66.1,Military
+249,Tree House,23,18,3,11,8,4,0,6,0,59.9,Scientist
+250,Boat,26,45,3,14,7,7,0,29,0,45.5,Engineer
+251,Boat,5,179,6,4,7,6,0,3,0,67.1,Farmer
+252,Fortified Building,5,28,2,12,4,4,0,2,1,77.9,Farmer
+253,Boat,14,64,2,23,5,6,0,157,0,36.1,Office Worker
+254,Mall,20,790,1,2,18,3,0,1,0,88.9,Military
+255,Rural Farm,6,228,6,22,4,9,1,3,1,6.8,Office Worker
+256,Underground Bunker,9,26,2,5,15,8,0,2,0,42.6,Military
+257,Mobile RV,14,67,2,5,6,1,0,3,0,34.6,Farmer
+258,Mall,19,43,7,17,4,6,0,91,0,43.1,Student
+259,Fortified Building,10,158,2,8,5,2,0,74,0,35.6,Teacher
+260,Fortified Building,16,103,2,35,6,2,0,14,1,94.8,Teacher
+261,Fortified Building,2,9,4,3,4,10,1,38,0,5.0,Chef
+262,Boat,29,14,5,15,5,7,0,168,0,45.4,Athlete
+263,Fortified Building,4,65,2,61,12,3,0,2,0,49.1,Office Worker
+264,Mall,3,162,4,28,8,1,0,25,1,6.1,Teacher
+265,Rural Farm,12,18,4,7,4,10,0,7,1,60.9,Student
+266,Underground Bunker,10,47,3,5,2,9,0,7,0,33.5,Medical
+267,Mobile RV,5,12,1,13,12,6,1,438,0,48.8,Medical
+268,Hospital,17,59,3,7,6,1,0,27,0,76.0,Student
+269,Hospital,23,59,4,7,7,9,1,4,1,54.7,Medical
+270,Hospital,28,111,5,6,29,3,0,91,0,43.7,Teacher
+271,Boat,27,254,2,12,9,9,0,7,0,38.7,Military
+272,Underground Bunker,7,411,2,26,5,2,1,5,0,46.6,Chef
+273,Fortified Building,2,34,1,16,8,1,1,6,0,48.7,Athlete
+274,Fortified Building,4,30,4,5,4,7,0,33,0,28.8,Scientist
+275,Hospital,27,108,3,25,18,10,1,3,0,46.8,Engineer
+276,Fortified Building,10,42,1,3,11,2,0,55,0,56.5,Engineer
+277,Fortified Building,24,89,3,10,5,3,0,20,0,27.9,Scientist
+278,Mobile RV,19,64,5,33,14,7,0,234,0,76.9,Scientist
+279,Underground Bunker,20,90,5,6,10,1,0,61,0,41.9,Military
+280,Mall,29,32,6,4,9,8,0,101,0,86.8,Athlete
+281,Mall,28,11,2,16,7,7,0,2,0,63.0,Military
+282,Boat,16,359,4,10,8,3,1,10,0,42.5,Medical
+283,Mobile RV,13,648,2,40,12,5,0,0,1,47.4,Military
+284,Hospital,20,11,3,7,4,2,0,9,0,31.9,Office Worker
+285,Boat,19,90,4,6,26,2,1,5,0,28.3,Chef
+286,Underground Bunker,19,38,2,11,6,9,0,10,0,80.1,Office Worker
+287,Fortified Building,12,25,1,9,5,10,0,2,0,34.9,Office Worker
+288,Underground Bunker,26,41,0,34,4,2,0,9,0,53.9,Farmer
+289,Fortified Building,8,56,4,24,5,9,0,5,0,52.6,Athlete
+290,Rural Farm,21,77,6,27,15,5,0,922,1,53.7,Student
+291,Hospital,15,89,7,13,7,1,0,3,0,34.4,Scientist
+292,Hospital,22,120,6,13,5,4,0,0,0,54.0,Medical
+293,Mall,8,29,4,4,13,10,1,8,1,45.0,Medical
+294,Hospital,15,43,0,9,6,4,1,1,1,33.5,Teacher
+295,Mall,8,177,0,8,5,9,0,54,0,43.4,Teacher
+296,Mobile RV,23,61,2,10,3,3,0,63,0,82.3,Chef
+297,Mobile RV,9,24,1,5,4,10,0,15,0,14.8,Office Worker
+298,Hospital,24,213,3,23,6,8,0,885,0,58.0,Teacher
+299,Mall,6,69,5,30,3,10,0,35,0,66.2,Engineer
+300,Rural Farm,14,71,7,25,27,2,1,1,0,69.3,Office Worker
+301,Rural Farm,26,31,4,43,12,3,0,46,0,77.3,Office Worker
+302,Mall,19,60,2,19,6,8,0,45,0,22.8,Office Worker
+303,Boat,7,184,1,8,15,7,0,38,0,86.1,Medical
+304,Boat,3,18,6,18,5,7,0,17,0,21.1,Office Worker
+305,Mall,13,24,8,69,56,4,0,2,0,37.2,Athlete
+306,Mall,17,106,1,7,19,4,0,2,0,42.8,Chef
+307,Boat,17,39,1,35,17,3,0,9,0,25.8,Office Worker
+308,Hospital,8,155,0,28,15,10,1,9,1,36.5,Office Worker
+309,Boat,23,190,3,14,2,1,0,22,0,53.2,Chef
+310,Fortified Building,15,65,2,9,6,4,0,0,1,38.4,Scientist
+311,Hospital,22,27,4,9,2,10,0,5,0,48.5,Office Worker
+312,Underground Bunker,29,40,4,47,11,1,1,37,0,28.4,Military
+313,Tree House,25,77,3,6,8,10,0,97,0,44.6,Engineer
+314,Tree House,20,329,1,13,25,8,0,6,0,72.2,Teacher
+315,Mobile RV,3,81,3,4,17,7,0,15,0,60.1,Scientist
+316,Hospital,22,15,2,5,3,6,1,6,1,34.0,Athlete
+317,Fortified Building,17,22,3,29,1,9,0,5,0,53.1,Student
+318,Mall,28,13,4,24,5,10,0,2,0,8.0,Student
+319,Tree House,16,154,3,9,3,9,0,3,0,58.1,Student
+320,Boat,6,52,4,19,6,4,1,15,0,59.3,Chef
+321,Mall,6,169,4,7,4,6,0,27,0,61.7,Athlete
+322,Underground Bunker,28,16,4,10,17,1,0,0,0,15.3,Office Worker
+323,Underground Bunker,19,34,3,4,19,8,0,21,1,18.5,Medical
+324,Rural Farm,23,126,5,7,4,6,0,8,1,30.7,Student
+325,Fortified Building,29,52,3,38,81,4,0,12,0,48.4,Chef
+326,Mall,17,27,3,10,6,9,0,2,0,31.1,Scientist
+327,Fortified Building,12,46,6,7,4,8,0,712,0,66.3,Office Worker
+328,Mobile RV,12,25,3,8,26,4,1,112,0,73.6,Scientist
+329,Hospital,14,114,5,9,27,4,0,30,0,27.5,Teacher
+330,Mall,16,148,1,9,8,4,0,6,0,64.9,Engineer
+331,Hospital,10,130,4,13,20,1,0,6,1,76.5,Office Worker
+332,Boat,14,30,2,18,4,3,0,147,0,8.7,Medical
+333,Boat,18,102,3,20,5,9,0,6,0,51.4,Medical
+334,Boat,23,34,2,23,11,3,0,7,1,59.2,Engineer
+335,Tree House,12,22,8,24,7,6,0,2,0,23.6,Teacher
+336,Fortified Building,13,75,2,7,4,5,1,131,0,39.5,Military
+337,Mall,1,62,1,9,9,9,0,375,0,23.6,Student
+338,Tree House,22,81,3,14,8,2,0,7,0,89.8,Military
+339,Tree House,19,60,2,16,6,4,0,44,0,78.4,Athlete
+340,Tree House,25,22,4,4,15,3,0,5,0,72.4,Engineer
+341,Mall,29,193,3,11,31,10,0,5,0,48.5,Office Worker
+342,Fortified Building,26,21,2,3,3,8,0,11,0,53.7,Chef
+343,Tree House,24,92,4,17,16,3,0,81,0,14.1,Athlete
+344,Mall,24,9,2,20,60,7,0,151,1,81.6,Military
+345,Underground Bunker,4,20,1,7,2,1,0,3,0,69.0,Teacher
+346,Hospital,29,82,4,15,15,9,0,0,0,56.7,Military
+347,Tree House,2,76,2,9,11,1,0,2,0,94.7,Engineer
+348,Boat,26,103,1,15,7,4,1,11,1,64.0,Farmer
+349,Boat,24,88,4,10,3,3,0,3,0,36.9,Office Worker
+350,Rural Farm,25,109,3,43,12,8,0,10,0,54.1,Engineer
+351,Underground Bunker,16,25,2,13,15,6,0,221,0,60.0,Engineer
+352,Boat,5,10,4,18,6,7,0,2,0,100.0,Farmer
+353,Mall,17,49,4,10,8,2,0,82,0,68.7,Scientist
+354,Mobile RV,16,55,3,10,1,6,0,1,0,29.1,Chef
+355,Mall,25,72,5,21,12,3,0,1,1,54.7,Medical
+356,Boat,28,272,4,9,3,7,0,26,0,43.5,Teacher
+357,Mall,21,7,2,20,6,8,0,1,0,87.6,Scientist
+358,Fortified Building,5,38,2,12,3,8,0,1,0,71.8,Office Worker
+359,Mall,14,100,2,17,5,1,0,18,0,33.2,Military
+360,Boat,26,127,2,9,15,9,0,6,0,31.7,Office Worker
+361,Mobile RV,24,21,1,13,2,5,0,11,1,34.2,Military
+362,Hospital,4,47,5,6,7,6,0,6,0,32.0,Athlete
+363,Rural Farm,3,3,5,23,5,2,1,19,1,13.4,Engineer
+364,Mall,19,223,3,9,23,9,0,8,0,59.6,Chef
+365,Hospital,21,51,4,5,7,1,0,1,0,66.2,Medical
+366,Fortified Building,5,26,2,6,2,6,1,7,0,57.2,Office Worker
+367,Mall,28,19,2,9,8,1,1,70,1,65.1,Farmer
+368,Hospital,18,20,4,21,2,3,1,5,0,47.2,Engineer
+369,Underground Bunker,15,50,0,25,13,10,0,11,0,29.6,Engineer
+370,Boat,3,119,2,12,2,5,0,40,0,41.9,Office Worker
+371,Mall,17,28,4,3,8,4,1,10,0,93.2,Engineer
+372,Rural Farm,1,544,2,8,15,10,0,9,0,71.2,Athlete
+373,Rural Farm,25,105,7,10,4,3,0,6,0,40.3,Athlete
+374,Mobile RV,23,151,4,3,29,1,0,100,0,12.7,Scientist
+375,Fortified Building,8,10,4,4,8,4,1,19,0,89.2,Student
+376,Tree House,12,14,3,16,2,8,1,11,0,50.1,Teacher
+377,Tree House,14,23,6,23,4,8,1,47,0,79.1,Medical
+378,Mall,12,101,1,21,23,7,0,12,0,51.8,Office Worker
+379,Fortified Building,5,44,3,29,8,3,1,6,0,48.5,Engineer
+380,Boat,10,11,1,24,0,1,0,8,0,53.0,Engineer
+381,Fortified Building,6,383,3,8,20,5,1,20,1,56.9,Athlete
+382,Fortified Building,17,40,3,7,7,8,1,15,0,63.1,Scientist
+383,Boat,17,67,5,16,9,9,0,55,0,45.3,Student
+384,Rural Farm,10,9,4,8,3,7,0,12,0,56.9,Teacher
+385,Rural Farm,29,92,1,12,6,8,0,1,0,66.2,Scientist
+386,Underground Bunker,16,103,4,34,5,1,0,118,0,47.8,Engineer
+387,Hospital,21,6,1,4,9,2,0,3,0,76.7,Office Worker
+388,Mall,15,112,2,1,8,1,0,165,0,40.7,Student
+389,Boat,22,84,0,62,22,4,0,120,0,76.0,Scientist
+390,Boat,13,201,4,10,13,3,0,149,0,67.0,Scientist
+391,Hospital,2,5,3,11,12,3,0,20,0,32.7,Chef
+392,Underground Bunker,15,139,2,4,10,5,0,27,1,36.3,Scientist
+393,Underground Bunker,22,98,1,3,8,1,0,1,0,33.8,Athlete
+394,Hospital,12,10,5,8,28,7,1,3,0,54.0,Teacher
+395,Hospital,26,75,1,16,6,3,1,42,0,35.5,Office Worker
+396,Tree House,25,70,5,4,3,1,0,0,0,77.5,Medical
+397,Fortified Building,5,37,1,4,2,2,0,39,0,44.1,Athlete
+398,Tree House,29,76,0,5,3,3,0,1,0,29.1,Office Worker
+399,Boat,1,79,2,10,21,10,0,1,1,62.5,Military
+400,Mobile RV,11,129,1,5,7,4,0,3,0,5.0,Chef
+401,Boat,2,27,1,42,10,4,0,4,1,22.6,Engineer
+402,Mall,17,26,2,6,5,9,1,4,0,24.7,Athlete
+403,Tree House,27,43,3,13,8,5,0,5,0,59.6,Farmer
+404,Hospital,27,9,3,28,5,1,0,22,0,58.8,Medical
+405,Mall,15,61,1,35,6,1,0,22,0,54.1,Engineer
+406,Mall,13,42,3,4,9,1,0,230,0,42.3,Athlete
+407,Fortified Building,14,36,3,2,9,8,1,2,0,80.3,Student
+408,Boat,10,82,2,6,2,5,0,4,0,58.4,Farmer
+409,Hospital,22,10,5,5,7,2,0,1,0,41.9,Medical
+410,Fortified Building,11,18,1,3,3,1,0,2,0,45.4,Chef
+411,Mall,12,75,6,18,3,9,0,4,0,45.5,Athlete
+412,Hospital,21,91,2,17,8,9,0,27,0,75.7,Military
+413,Boat,18,113,1,2,3,2,0,1,1,54.0,Farmer
+414,Mall,1,61,3,5,2,3,1,87,0,51.7,Chef
+415,Fortified Building,5,8,5,9,3,5,0,15,0,5.0,Farmer
+416,Hospital,22,21,6,24,3,2,0,117,1,27.8,Medical
+417,Underground Bunker,29,110,3,10,1,2,0,3,0,34.2,Chef
+418,Fortified Building,18,136,4,135,7,10,0,12,0,19.9,Athlete
+419,Mall,20,15,6,8,10,8,1,12,0,48.6,Student
+420,Rural Farm,27,26,1,27,23,3,0,156,0,54.7,Teacher
+421,Boat,26,49,6,11,7,1,0,43,0,47.6,Student
+422,Boat,10,165,0,42,6,1,0,1,0,62.8,Engineer
+423,Boat,17,60,1,9,10,7,1,28,1,36.7,Office Worker
+424,Underground Bunker,1,15,3,12,17,1,0,6,0,17.0,Scientist
+425,Tree House,5,18,0,46,26,3,1,13,0,41.6,Office Worker
+426,Rural Farm,26,61,1,6,9,9,0,9,0,34.1,Scientist
+427,Tree House,3,22,1,57,30,7,0,73,0,37.4,Engineer
+428,Hospital,29,27,2,20,26,10,0,3,0,12.4,Farmer
+429,Mall,27,5,4,17,4,3,1,11,0,35.5,Teacher
+430,Hospital,13,23,5,5,1,10,0,6,0,90.8,Office Worker
+431,Tree House,6,304,4,5,3,7,0,2,0,5.0,Student
+432,Underground Bunker,9,60,4,17,5,8,0,47,0,33.1,Medical
+433,Mall,8,25,2,27,4,1,0,7,0,72.1,Student
+434,Mobile RV,18,100,9,3,5,5,0,4,0,56.7,Student
+435,Mobile RV,3,7,2,5,3,10,0,80,0,48.2,Chef
+436,Fortified Building,3,8,4,10,12,9,1,14,0,39.1,Teacher
+437,Mobile RV,9,40,7,38,4,10,0,3,0,57.4,Teacher
+438,Fortified Building,1,171,5,6,6,3,0,27,0,60.0,Medical
+439,Underground Bunker,1,35,5,4,7,4,0,1,0,55.4,Medical
+440,Mall,4,38,6,14,10,9,0,31,0,15.4,Medical
+441,Underground Bunker,15,112,3,26,13,6,0,3,0,10.5,Engineer
+442,Hospital,6,152,2,2,14,7,0,43,0,34.8,Student
+443,Fortified Building,6,77,4,4,14,7,1,40,1,72.5,Military
+444,Mobile RV,10,28,3,5,42,4,1,13,0,12.2,Scientist
+445,Fortified Building,3,161,4,13,8,2,1,19,1,51.0,Medical
+446,Hospital,2,76,0,4,9,6,1,19,0,53.3,Medical
+447,Boat,27,20,6,47,8,6,1,64,0,33.9,Office Worker
+448,Hospital,10,322,5,4,8,10,1,88,0,42.9,Teacher
+449,Hospital,13,40,0,61,6,9,1,6,0,100.0,Office Worker
+450,Rural Farm,9,36,3,15,4,3,0,31,0,20.0,Engineer
+451,Underground Bunker,22,37,3,29,3,3,0,10,0,69.7,Scientist
+452,Hospital,8,104,2,8,10,7,1,12,1,53.3,Farmer
+453,Hospital,29,27,4,17,3,2,1,10,0,46.6,Engineer
+454,Underground Bunker,29,58,2,9,5,10,0,10,0,30.2,Student
+455,Fortified Building,26,52,1,42,18,10,0,19,0,67.1,Scientist
+456,Underground Bunker,5,66,3,22,7,1,0,6,0,81.8,Student
+457,Fortified Building,26,29,6,16,5,7,0,4,0,59.7,Student
+458,Mobile RV,11,69,3,22,10,7,0,8,0,55.3,Athlete
+459,Fortified Building,13,222,4,12,16,1,1,4,1,31.5,Athlete
+460,Underground Bunker,12,79,2,17,3,4,0,51,0,16.5,Scientist
+461,Fortified Building,9,60,1,10,8,8,0,30,0,50.0,Engineer
+462,Fortified Building,5,36,2,9,1,8,0,140,0,54.1,Office Worker
+463,Boat,5,11,2,1,14,7,0,30,0,53.5,Scientist
+464,Mobile RV,27,185,3,4,6,3,0,53,0,52.0,Student
+465,Mall,18,28,3,10,22,4,1,7,0,64.6,Medical
+466,Boat,26,7,2,17,21,5,0,6,0,63.6,Teacher
+467,Rural Farm,26,47,3,57,7,5,0,9,0,50.6,Chef
+468,Fortified Building,10,47,6,24,4,1,0,33,0,54.0,Chef
+469,Tree House,17,16,1,6,9,3,1,3,0,68.1,Engineer
+470,Rural Farm,3,57,5,26,9,6,1,24,0,57.3,Student
+471,Hospital,25,121,1,5,6,3,0,95,0,39.6,Chef
+472,Fortified Building,7,61,4,27,15,3,0,27,0,55.4,Chef
+473,Tree House,6,43,9,8,30,5,1,1,0,45.1,Student
+474,Mall,23,98,2,8,11,5,0,14,0,57.4,Teacher
+475,Fortified Building,2,64,2,19,10,8,0,7,0,87.3,Chef
+476,Rural Farm,26,41,2,11,28,5,1,15,0,52.7,Student
+477,Underground Bunker,23,38,0,23,12,6,1,25,0,57.3,Medical
+478,Underground Bunker,15,18,2,3,8,2,0,62,0,34.8,Military
+479,Tree House,2,10,3,10,6,4,0,200,0,32.4,Military
+480,Underground Bunker,11,75,3,9,2,10,1,36,1,72.2,Farmer
+481,Fortified Building,1,136,3,2,15,1,0,18,0,47.4,Teacher
+482,Mall,11,27,2,15,18,10,1,19,1,61.2,Chef
+483,Underground Bunker,18,45,2,5,3,1,0,5,0,48.6,Athlete
+484,Fortified Building,7,51,6,18,4,7,0,47,0,60.3,Engineer
+485,Hospital,23,47,4,115,2,2,1,64,0,69.6,Farmer
+486,Underground Bunker,1,146,3,10,5,9,0,28,0,22.2,Office Worker
+487,Boat,25,15,1,11,15,8,1,34,0,6.0,Military
+488,Hospital,2,360,1,11,9,5,0,3,0,53.0,Chef
+489,Underground Bunker,3,31,2,31,13,1,0,7,0,72.9,Chef
+490,Hospital,7,100,3,9,5,7,0,11,0,14.3,Office Worker
+491,Boat,9,42,4,14,4,9,0,15,0,54.9,Athlete
+492,Fortified Building,15,54,2,17,15,5,0,1,0,67.2,Chef
+493,Mall,23,21,0,8,6,4,0,28,0,51.9,Teacher
+494,Mall,18,70,4,32,4,7,1,139,0,63.4,Office Worker
+495,Hospital,25,98,3,28,8,6,0,13,0,66.1,Student
+496,Mall,2,58,4,12,3,8,0,36,0,33.9,Student
+497,Mobile RV,19,11,3,10,13,6,0,75,0,83.2,Chef
+498,Fortified Building,20,26,1,27,5,9,0,2,0,37.5,Office Worker
+499,Hospital,16,10,4,7,3,7,0,5,0,70.7,Office Worker
+500,Mobile RV,28,24,2,3,1,4,0,31,0,73.7,Athlete

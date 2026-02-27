@@ -1,0 +1,88 @@
+character_id,species,affiliation,midi_chlorian_count,height_cm,weight_kg,lightsaber_duels_won,planets_visited,force_sensitivity_score
+1,Trandoshan,Rebel Alliance,12631,251.5,94.0,3,5,0.181
+2,Twi'lek,Republic,2176,142.0,92.0,2,7,0.618
+3,Mon Calamari,Jedi Order,933,193.0,70.4,7,11,0.061
+4,Zabrak,Jedi Order,1737,182.9,38.1,2,5,0.377
+5,Trandoshan,Rebel Alliance,8831,176.5,71.6,5,10,0.417
+6,Togruta,Jedi Order,2031,197.8,82.8,0,8,0.135
+7,Droid,Bounty Hunter,10666,174.3,80.0,4,10,0.634
+8,Trandoshan,Galactic Empire,416,126.6,95.1,1,11,0.387
+9,Mon Calamari,Mandalorian,807,153.8,118.7,7,15,0.488
+10,Zabrak,Galactic Empire,1394,209.1,88.3,1,8,0.228
+11,Twi'lek,Rebel Alliance,417,204.3,91.4,2,9,0.319
+12,Mon Calamari,Sith,246593,165.7,83.0,2,9,0.263
+13,Mon Calamari,Mandalorian,575,187.6,103.4,2,10,0.133
+14,Droid,Rebel Alliance,11758,244.6,90.6,0,9,0.256
+15,Rodian,Republic,1097,174.2,95.0,3,7,0.14
+16,Zabrak,Sith,1379,174.7,116.2,1,9,0.302
+17,Wookiee,Galactic Empire,4684,179.8,84.5,4,12,0.206
+18,Mon Calamari,Rebel Alliance,334,190.2,74.6,3,11,0.015
+19,Rodian,Republic,1103,166.3,88.9,5,2,0.173
+20,Wookiee,Mandalorian,2392,190.2,102.7,2,3,0.411
+21,Zabrak,Mandalorian,837,126.4,90.0,0,16,0.245
+22,Human,Neutral,868,183.4,101.2,1,7,0.223
+23,Togruta,Republic,15215,176.3,66.6,2,6,0.11
+24,Rodian,Bounty Hunter,13460,169.6,62.6,6,13,0.318
+25,Gungan,Jedi Order,1536,163.1,69.1,2,8,0.367
+26,Human,Sith,2627,159.8,54.7,3,4,0.411
+27,Togruta,Republic,19063,154.7,82.2,1,2,0.427
+28,Droid,Neutral,350,117.0,71.4,4,8,0.038
+29,Trandoshan,Jedi Order,4949,168.3,104.6,3,8,0.23
+30,Twi'lek,Jedi Order,57633,202.4,54.2,6,12,0.053
+31,Gungan,Rebel Alliance,56814,166.6,111.1,4,6,0.194
+32,Droid,Jedi Order,162,190.9,60.4,4,9,0.076
+33,Zabrak,Bounty Hunter,949,148.0,55.2,6,11,0.462
+34,Droid,Mandalorian,3839,142.4,63.5,0,4,0.125
+35,Trandoshan,Neutral,410,156.2,119.0,2,5,0.015
+36,Zabrak,Jedi Order,1094,149.4,79.2,3,7,0.335
+37,Gungan,Rebel Alliance,2426,145.4,90.6,3,12,0.102
+38,Trandoshan,Bounty Hunter,24391,186.2,76.3,6,10,0.234
+39,Wookiee,Galactic Empire,2784,219.5,78.2,3,3,0.285
+40,Twi'lek,Mandalorian,4127,158.3,69.9,4,6,0.056
+41,Gungan,Mandalorian,6429,132.7,81.0,2,3,0.169
+42,Wookiee,Neutral,6736,191.4,89.9,3,3,0.383
+43,Togruta,Mandalorian,3109,139.1,113.6,1,11,0.317
+44,Gungan,Jedi Order,494,145.4,42.5,2,8,0.33
+45,Togruta,Rebel Alliance,9744,187.4,112.2,5,5,0.168
+46,Zabrak,Mandalorian,5694,170.9,90.6,1,10,0.346
+47,Wookiee,Mandalorian,575,157.8,72.6,1,10,0.182
+48,Twi'lek,Galactic Empire,1071,176.7,69.0,3,10,0.368
+49,Trandoshan,Galactic Empire,11285,164.8,100.9,3,4,0.017
+50,Mon Calamari,Sith,7392,222.2,84.6,4,6,0.114
+51,Droid,Bounty Hunter,1011,158.1,49.3,2,8,0.161
+52,Human,Jedi Order,1988,152.2,87.3,4,14,0.127
+53,Twi'lek,Mandalorian,2403,163.6,102.9,5,4,0.242
+54,Wookiee,Republic,7521,164.7,97.2,4,8,0.171
+55,Mon Calamari,Mandalorian,19407,189.9,67.5,1,8,0.367
+56,Twi'lek,Rebel Alliance,3289,125.2,53.2,2,16,0.103
+57,Wookiee,Sith,17219,185.7,73.5,3,11,0.137
+58,Rodian,Bounty Hunter,11047,161.5,145.1,1,2,0.133
+59,Rodian,Republic,4058,194.4,49.1,0,7,0.391
+60,Togruta,Sith,341,173.8,63.1,5,12,0.248
+61,Twi'lek,Neutral,638,188.0,87.8,7,8,0.33
+62,Rodian,Bounty Hunter,9062,165.2,77.5,3,10,0.384
+63,Wookiee,Mandalorian,229,186.0,76.0,4,6,0.188
+64,Togruta,Mandalorian,3563,216.6,120.5,4,5,0.312
+65,Wookiee,Bounty Hunter,13369,156.5,62.9,3,9,0.222
+66,Togruta,Mandalorian,3746,172.3,79.7,2,8,0.18
+67,Twi'lek,Jedi Order,1209,162.8,84.0,0,9,0.133
+68,Mon Calamari,Bounty Hunter,837,214.8,63.9,2,4,0.121
+69,Trandoshan,Sith,10139,164.2,51.2,4,7,0.519
+70,Gungan,Bounty Hunter,6048,156.7,85.4,5,8,0.282
+71,Mon Calamari,Republic,1942,160.5,116.3,0,7,0.293
+72,Zabrak,Mandalorian,14734,171.6,88.1,6,6,0.213
+73,Wookiee,Jedi Order,10732,155.2,81.8,5,13,0.408
+74,Zabrak,Jedi Order,43603,165.8,81.7,6,8,0.381
+75,Mon Calamari,Neutral,6976,178.9,74.8,2,13,0.24
+76,Togruta,Sith,2329,172.1,103.7,3,6,0.187
+77,Gungan,Galactic Empire,2405,195.8,69.9,4,11,0.498
+78,Gungan,Galactic Empire,163,167.0,52.9,6,12,0.346
+79,Human,Bounty Hunter,3736,169.9,48.4,4,8,0.11
+80,Gungan,Neutral,2911,181.8,81.6,4,10,0.18
+81,Trandoshan,Rebel Alliance,405,231.1,101.2,4,8,0.105
+82,Gungan,Bounty Hunter,2870,155.3,84.7,6,1,0.291
+83,Mon Calamari,Neutral,22353,223.1,73.7,2,11,0.463
+84,Human,Sith,990,145.4,89.2,3,10,0.307
+85,Mon Calamari,Sith,706,180.7,83.7,3,6,0.313
+86,Mon Calamari,Sith,15636,166.5,96.5,2,6,0.347
+87,Droid,Sith,7718,154.6,106.5,3,6,0.168

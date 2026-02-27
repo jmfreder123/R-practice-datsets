@@ -1,0 +1,1001 @@
+transaction_id,drink,size,day_of_week,hour,price_usd,tip_usd,added_syrup,milk_type,customer_loyalty_member
+1,Flat White,Medium,Thursday,7,5.17,0.12,1,Almond,0
+2,Chai Latte,Medium,Friday,10,6.18,1.0,1,Skim,0
+3,Latte,Large,Monday,17,5.13,0.79,1,Oat,1
+4,Chai Latte,Large,Tuesday,7,5.69,0.55,0,Oat,1
+5,Chai Latte,Medium,Saturday,12,5.86,0.44,1,Skim,1
+6,Matcha Latte,Medium,Friday,18,4.57,0.31,0,Oat,1
+7,Espresso,Small,Friday,6,4.86,0.07,0,Oat,1
+8,Cold Brew,Large,Thursday,19,3.57,0.28,1,Almond,0
+9,Drip Coffee,Medium,Sunday,20,6.91,1.46,0,Oat,0
+10,Americano,Large,Wednesday,9,6.52,1.22,1,Oat,1
+11,Flat White,Medium,Saturday,16,4.23,2.87,1,Whole,1
+12,Matcha Latte,Medium,Wednesday,7,4.95,0.85,1,Oat,1
+13,Drip Coffee,Small,Thursday,16,5.18,0.65,0,Whole,1
+14,Matcha Latte,Small,Friday,12,4.84,0.28,0,Oat,1
+15,Latte,Medium,Monday,18,6.69,0.06,1,Almond,1
+16,Cappuccino,Medium,Friday,8,6.4,0.77,1,Almond,0
+17,Drip Coffee,Small,Thursday,14,6.57,0.54,1,Whole,0
+18,Drip Coffee,Large,Friday,16,7.12,1.14,1,Whole,1
+19,Flat White,Medium,Saturday,8,5.88,0.42,0,Soy,1
+20,Americano,Medium,Friday,17,5.96,3.39,0,Oat,0
+21,Mocha,Large,Friday,19,6.39,0.41,0,Oat,1
+22,Matcha Latte,Large,Friday,13,6.22,0.32,1,Whole,1
+23,Matcha Latte,Medium,Monday,16,6.98,1.64,0,Oat,0
+24,Flat White,Large,Tuesday,12,6.58,0.4,1,Skim,0
+25,Latte,Medium,Tuesday,13,3.98,1.64,0,Almond,1
+26,Latte,Large,Wednesday,6,7.21,0.02,0,Whole,1
+27,Cappuccino,Medium,Tuesday,12,6.23,0.94,0,Oat,1
+28,Americano,Large,Tuesday,13,4.01,0.06,1,None,0
+29,Espresso,Medium,Tuesday,14,6.59,0.13,1,Oat,1
+30,Cold Brew,Medium,Sunday,8,4.93,0.96,1,Whole,0
+31,Flat White,Medium,Friday,8,6.72,0.27,0,None,1
+32,Drip Coffee,Medium,Sunday,15,7.32,0.19,0,Oat,0
+33,Cold Brew,Medium,Friday,8,4.52,1.29,1,Soy,1
+34,Flat White,Medium,Saturday,11,6.93,2.34,0,Whole,1
+35,Cold Brew,Medium,Monday,8,6.59,0.21,0,Whole,1
+36,Drip Coffee,Small,Sunday,12,6.18,0.31,0,Almond,1
+37,Matcha Latte,Medium,Friday,20,5.04,1.0,0,Whole,1
+38,Flat White,Medium,Friday,18,3.94,1.35,0,Whole,1
+39,Espresso,Medium,Tuesday,9,5.44,5.0,0,None,0
+40,Espresso,Medium,Monday,10,3.92,0.26,0,Whole,0
+41,Cold Brew,Small,Monday,19,5.5,0.65,0,Soy,1
+42,Latte,Medium,Tuesday,19,6.78,0.12,1,Oat,1
+43,Chai Latte,Large,Sunday,8,7.49,0.32,0,None,0
+44,Latte,Small,Tuesday,17,4.29,0.04,0,None,1
+45,Chai Latte,Small,Monday,9,4.33,0.19,1,Oat,0
+46,Drip Coffee,Medium,Thursday,12,6.74,0.57,1,Almond,0
+47,Latte,Medium,Tuesday,6,5.38,0.14,0,Soy,0
+48,Americano,Medium,Tuesday,20,7.16,1.76,0,Whole,1
+49,Cappuccino,Large,Monday,16,6.58,0.99,0,Soy,1
+50,Mocha,Large,Sunday,8,6.45,0.02,1,None,0
+51,Americano,Medium,Thursday,14,3.91,1.67,1,Whole,0
+52,Chai Latte,Medium,Saturday,9,3.64,3.03,0,Skim,0
+53,Chai Latte,Medium,Thursday,7,4.77,0.56,1,Whole,0
+54,Drip Coffee,Medium,Wednesday,11,4.37,0.3,0,Almond,1
+55,Chai Latte,Large,Thursday,13,6.35,0.24,0,Oat,0
+56,Cappuccino,Large,Tuesday,7,5.3,0.07,1,Oat,0
+57,Cappuccino,Medium,Friday,12,5.59,0.54,0,Oat,0
+58,Americano,Medium,Monday,12,6.75,0.04,0,Whole,0
+59,Chai Latte,Medium,Saturday,13,5.41,0.56,1,Soy,1
+60,Mocha,Small,Tuesday,8,5.68,0.23,0,Whole,1
+61,Chai Latte,Large,Saturday,6,6.87,0.52,0,Oat,0
+62,Matcha Latte,Medium,Monday,9,5.23,0.43,0,Whole,0
+63,Flat White,Medium,Saturday,11,3.83,0.29,0,Whole,1
+64,Cold Brew,Large,Thursday,13,5.59,0.48,0,Almond,1
+65,Chai Latte,Small,Monday,19,5.82,0.51,0,Whole,0
+66,Americano,Medium,Tuesday,8,5.55,1.44,1,Soy,0
+67,Americano,Small,Friday,14,4.53,0.88,1,Oat,0
+68,Matcha Latte,Medium,Tuesday,7,4.39,0.45,0,Skim,1
+69,Americano,Small,Sunday,8,4.98,1.89,0,Whole,0
+70,Flat White,Medium,Wednesday,12,4.16,1.13,1,Soy,0
+71,Americano,Large,Monday,14,6.16,0.06,0,Oat,0
+72,Espresso,Medium,Tuesday,18,5.96,0.13,0,Whole,1
+73,Drip Coffee,Medium,Thursday,15,6.03,0.07,1,Soy,0
+74,Chai Latte,Large,Thursday,6,4.4,0.31,1,Soy,1
+75,Americano,Medium,Sunday,14,4.49,0.46,0,Whole,1
+76,Cappuccino,Large,Saturday,17,6.65,0.56,0,None,1
+77,Cappuccino,Medium,Tuesday,12,6.26,1.53,0,Soy,1
+78,Chai Latte,Medium,Saturday,20,7.0,0.01,0,Oat,1
+79,Matcha Latte,Small,Wednesday,6,5.11,0.45,0,Whole,1
+80,Drip Coffee,Small,Monday,17,5.69,0.42,0,Oat,1
+81,Flat White,Large,Wednesday,9,6.46,2.36,1,Whole,1
+82,Flat White,Small,Friday,13,7.4,0.22,1,Whole,1
+83,Americano,Medium,Sunday,14,7.46,0.1,1,Oat,1
+84,Cappuccino,Medium,Saturday,9,7.5,0.12,1,Whole,0
+85,Americano,Medium,Tuesday,20,7.06,0.59,0,Oat,0
+86,Mocha,Large,Saturday,7,6.06,0.4,0,Whole,0
+87,Americano,Large,Wednesday,8,3.53,1.12,0,Whole,0
+88,Americano,Medium,Sunday,19,6.3,0.31,0,Whole,0
+89,Latte,Small,Friday,7,4.45,0.11,1,Almond,0
+90,Flat White,Medium,Wednesday,10,3.73,0.39,0,Oat,1
+91,Mocha,Medium,Friday,15,6.29,1.72,1,Soy,0
+92,Latte,Medium,Sunday,16,6.52,0.42,1,None,1
+93,Cold Brew,Medium,Thursday,19,6.14,1.43,1,Whole,1
+94,Mocha,Large,Thursday,16,4.96,0.37,1,Whole,1
+95,Cold Brew,Medium,Tuesday,18,5.54,0.26,0,Almond,1
+96,Americano,Small,Wednesday,19,7.24,1.19,0,Whole,1
+97,Chai Latte,Medium,Thursday,12,6.42,0.19,0,Whole,0
+98,Cappuccino,Large,Saturday,10,5.52,0.21,1,Whole,0
+99,Latte,Medium,Sunday,16,5.87,0.04,0,Oat,1
+100,Chai Latte,Medium,Monday,8,7.21,0.17,0,Oat,0
+101,Matcha Latte,Medium,Sunday,7,5.08,0.38,0,None,1
+102,Chai Latte,Medium,Saturday,16,3.91,0.41,0,Oat,0
+103,Drip Coffee,Medium,Thursday,19,4.8,0.44,0,Almond,1
+104,Cappuccino,Large,Thursday,11,5.16,0.52,1,Oat,1
+105,Espresso,Large,Wednesday,8,4.59,0.68,0,Whole,1
+106,Espresso,Medium,Friday,12,5.62,0.17,0,Whole,0
+107,Cappuccino,Large,Monday,10,4.72,0.76,0,Skim,1
+108,Americano,Medium,Monday,10,3.91,0.33,0,Whole,1
+109,Latte,Large,Friday,13,4.25,1.06,0,Whole,1
+110,Matcha Latte,Medium,Wednesday,8,7.17,0.65,1,Whole,1
+111,Cappuccino,Medium,Thursday,10,6.02,0.65,1,Whole,0
+112,Americano,Small,Friday,18,4.76,0.93,0,Whole,1
+113,Mocha,Medium,Sunday,15,4.97,0.32,1,Almond,0
+114,Drip Coffee,Medium,Sunday,7,5.47,0.45,1,Whole,0
+115,Mocha,Medium,Sunday,12,6.19,0.7,0,Oat,1
+116,Latte,Medium,Monday,7,5.83,0.44,0,Skim,1
+117,Mocha,Medium,Monday,19,7.23,0.47,0,Soy,1
+118,Americano,Large,Sunday,8,6.0,0.25,0,Oat,1
+119,Cold Brew,Small,Sunday,19,7.14,0.27,0,Almond,1
+120,Flat White,Medium,Sunday,18,3.52,0.96,0,Whole,1
+121,Flat White,Small,Thursday,12,7.06,0.0,1,Soy,1
+122,Mocha,Small,Thursday,9,6.39,0.08,0,Oat,1
+123,Drip Coffee,Medium,Tuesday,18,4.19,2.38,1,Almond,0
+124,Mocha,Large,Saturday,8,4.55,0.17,0,Almond,0
+125,Mocha,Medium,Friday,8,5.67,0.43,0,Oat,0
+126,Americano,Large,Thursday,8,4.0,1.52,0,Oat,1
+127,Cappuccino,Large,Tuesday,13,6.64,0.0,1,Oat,1
+128,Espresso,Medium,Wednesday,9,6.66,2.07,0,Oat,1
+129,Cappuccino,Medium,Sunday,20,4.7,0.04,1,Soy,1
+130,Cappuccino,Small,Monday,8,3.78,0.15,0,Oat,0
+131,Chai Latte,Large,Friday,17,7.46,0.02,0,Whole,1
+132,Cappuccino,Small,Saturday,7,4.5,0.59,1,Almond,1
+133,Matcha Latte,Medium,Wednesday,10,3.77,2.29,1,None,1
+134,Matcha Latte,Medium,Friday,8,4.82,1.46,0,Whole,1
+135,Cappuccino,Large,Friday,20,7.38,0.82,0,Skim,0
+136,Drip Coffee,Medium,Thursday,6,6.67,0.16,0,Oat,1
+137,Drip Coffee,Small,Tuesday,15,5.42,1.63,0,Almond,1
+138,Mocha,Medium,Friday,8,4.72,1.12,1,Skim,1
+139,Matcha Latte,Large,Saturday,17,5.19,0.25,0,Soy,1
+140,Matcha Latte,Medium,Wednesday,9,3.57,1.31,1,Skim,0
+141,Drip Coffee,Large,Saturday,8,6.37,1.68,1,Whole,1
+142,Drip Coffee,Large,Friday,14,3.9,0.96,1,Whole,0
+143,Chai Latte,Medium,Saturday,9,5.58,0.08,0,Oat,0
+144,Chai Latte,Medium,Saturday,12,5.76,3.32,1,Skim,1
+145,Matcha Latte,Small,Sunday,7,3.51,0.06,1,Skim,0
+146,Flat White,Large,Tuesday,15,7.42,0.85,1,Whole,1
+147,Drip Coffee,Large,Monday,11,4.71,0.09,1,Whole,0
+148,Cappuccino,Medium,Friday,8,3.81,1.89,0,Skim,0
+149,Flat White,Medium,Wednesday,15,6.92,0.34,0,Oat,1
+150,Americano,Large,Sunday,7,4.11,0.57,0,Almond,0
+151,Latte,Medium,Sunday,13,3.6,0.16,0,Skim,0
+152,Matcha Latte,Large,Monday,13,5.48,0.63,1,Whole,0
+153,Latte,Small,Saturday,19,4.02,2.24,0,Whole,0
+154,Espresso,Large,Monday,8,7.43,1.86,0,Skim,0
+155,Cold Brew,Medium,Thursday,14,3.54,0.05,0,Whole,0
+156,Drip Coffee,Medium,Thursday,10,3.7,0.38,0,Whole,1
+157,Chai Latte,Medium,Friday,11,6.83,0.25,0,Whole,0
+158,Cold Brew,Medium,Sunday,12,4.46,0.53,0,Oat,0
+159,Latte,Medium,Wednesday,8,7.15,1.44,1,Whole,1
+160,Drip Coffee,Large,Thursday,11,4.74,1.07,0,Soy,0
+161,Americano,Medium,Saturday,14,3.78,0.34,0,None,1
+162,Matcha Latte,Medium,Tuesday,11,3.54,0.39,0,Whole,0
+163,Flat White,Medium,Tuesday,7,4.63,0.85,0,Soy,1
+164,Cold Brew,Large,Saturday,9,5.39,0.17,0,Whole,0
+165,Americano,Small,Monday,10,3.5,0.09,0,Whole,1
+166,Cold Brew,Medium,Saturday,10,5.82,0.22,0,Oat,0
+167,Flat White,Small,Monday,7,4.83,0.11,0,None,1
+168,Cold Brew,Medium,Monday,11,5.06,0.35,1,None,1
+169,Matcha Latte,Medium,Tuesday,14,4.55,2.22,0,Whole,0
+170,Flat White,Large,Thursday,7,5.62,0.1,0,Whole,0
+171,Flat White,Small,Saturday,15,4.42,1.36,0,None,1
+172,Chai Latte,Medium,Thursday,19,4.04,0.61,1,Whole,1
+173,Matcha Latte,Large,Friday,6,7.06,0.8,1,Soy,1
+174,Matcha Latte,Small,Wednesday,8,5.06,0.15,0,Whole,1
+175,Mocha,Large,Tuesday,12,3.81,0.13,0,Almond,0
+176,Flat White,Large,Sunday,8,4.42,0.14,0,Oat,1
+177,Matcha Latte,Large,Monday,16,4.74,0.88,1,Oat,0
+178,Cold Brew,Medium,Wednesday,9,6.58,1.1,0,Skim,1
+179,Drip Coffee,Medium,Monday,9,3.59,2.02,0,Whole,1
+180,Latte,Small,Wednesday,6,5.41,0.41,1,Oat,0
+181,Flat White,Small,Wednesday,9,5.13,0.5,0,Oat,1
+182,Drip Coffee,Small,Thursday,8,7.37,0.51,0,Whole,1
+183,Cappuccino,Large,Sunday,10,4.22,0.25,1,Whole,1
+184,Drip Coffee,Medium,Friday,8,6.01,0.32,1,Whole,1
+185,Matcha Latte,Medium,Friday,13,4.31,1.5,1,Whole,1
+186,Mocha,Medium,Monday,8,5.69,0.34,1,None,0
+187,Americano,Medium,Tuesday,18,5.72,1.63,1,Oat,1
+188,Latte,Medium,Friday,9,3.8,0.29,1,Oat,1
+189,Flat White,Large,Tuesday,8,5.33,0.33,0,Soy,0
+190,Espresso,Medium,Monday,7,5.34,0.66,0,Almond,1
+191,Flat White,Large,Tuesday,15,4.78,0.09,0,Oat,0
+192,Drip Coffee,Medium,Wednesday,12,4.61,2.04,1,Oat,0
+193,Drip Coffee,Large,Wednesday,7,4.4,1.37,0,Oat,0
+194,Flat White,Small,Monday,8,3.52,0.89,0,Whole,0
+195,Drip Coffee,Small,Tuesday,20,3.51,3.55,0,Skim,0
+196,Cappuccino,Medium,Sunday,17,5.86,0.01,0,Soy,1
+197,Americano,Large,Sunday,10,4.67,0.42,1,Almond,1
+198,Americano,Large,Tuesday,12,4.17,1.56,0,Oat,1
+199,Americano,Medium,Monday,11,6.24,0.45,1,Almond,0
+200,Chai Latte,Small,Sunday,7,5.62,0.0,0,Oat,1
+201,Mocha,Medium,Friday,16,7.16,0.14,0,Whole,0
+202,Drip Coffee,Medium,Thursday,15,6.82,0.46,1,Whole,0
+203,Chai Latte,Medium,Friday,11,6.41,0.88,0,Skim,0
+204,Americano,Medium,Saturday,18,4.01,0.14,0,Almond,0
+205,Flat White,Medium,Thursday,12,6.16,0.48,1,Whole,0
+206,Drip Coffee,Medium,Tuesday,7,6.28,0.01,0,Oat,1
+207,Chai Latte,Large,Thursday,9,6.55,0.52,1,Oat,0
+208,Drip Coffee,Medium,Sunday,11,4.55,1.81,1,Soy,0
+209,Cappuccino,Medium,Thursday,7,6.06,0.73,0,Soy,1
+210,Cappuccino,Large,Tuesday,13,5.97,0.46,0,Oat,1
+211,Mocha,Small,Wednesday,7,5.04,0.14,0,None,1
+212,Matcha Latte,Small,Thursday,8,6.15,0.18,0,Skim,1
+213,Espresso,Large,Sunday,19,3.85,0.06,0,Skim,1
+214,Americano,Medium,Sunday,20,6.07,1.09,0,Oat,1
+215,Matcha Latte,Medium,Monday,12,5.92,0.06,1,Oat,1
+216,Mocha,Medium,Friday,13,4.34,0.39,1,Oat,1
+217,Latte,Medium,Tuesday,17,6.77,1.11,1,Oat,0
+218,Matcha Latte,Medium,Tuesday,14,7.0,1.0,0,Skim,0
+219,Espresso,Medium,Thursday,8,4.34,0.69,0,Whole,1
+220,Espresso,Medium,Wednesday,11,3.8,0.68,0,Skim,1
+221,Flat White,Medium,Wednesday,12,5.91,0.08,1,Oat,0
+222,Drip Coffee,Large,Friday,10,5.42,0.15,1,Whole,0
+223,Cappuccino,Large,Friday,8,5.21,0.61,1,Oat,1
+224,Matcha Latte,Large,Sunday,15,6.54,0.34,0,Whole,1
+225,Chai Latte,Large,Wednesday,8,7.38,0.02,0,Whole,1
+226,Matcha Latte,Medium,Saturday,9,5.41,1.28,0,Skim,1
+227,Espresso,Large,Wednesday,9,3.52,0.85,0,Almond,0
+228,Espresso,Medium,Wednesday,8,5.89,0.32,1,Whole,0
+229,Mocha,Large,Thursday,18,6.12,0.08,0,None,0
+230,Espresso,Medium,Sunday,13,6.81,0.72,1,Whole,1
+231,Matcha Latte,Large,Monday,18,4.3,0.34,1,Oat,0
+232,Mocha,Small,Friday,12,5.6,0.24,0,Whole,0
+233,Cold Brew,Medium,Saturday,12,5.29,1.02,1,Whole,0
+234,Mocha,Large,Saturday,13,6.16,0.32,0,Whole,0
+235,Americano,Large,Tuesday,10,3.76,0.12,1,Skim,0
+236,Espresso,Medium,Wednesday,12,7.04,0.53,1,None,1
+237,Flat White,Medium,Wednesday,12,5.54,1.41,0,Skim,1
+238,Drip Coffee,Small,Monday,19,7.01,1.52,0,Almond,1
+239,Chai Latte,Medium,Sunday,18,4.86,1.51,1,Soy,0
+240,Americano,Small,Wednesday,7,6.11,0.44,0,Oat,1
+241,Americano,Large,Friday,7,7.33,1.25,1,Oat,1
+242,Chai Latte,Medium,Saturday,14,7.27,1.52,0,Almond,1
+243,Americano,Large,Wednesday,7,7.28,0.49,0,None,0
+244,Drip Coffee,Medium,Monday,7,3.67,0.31,1,Whole,1
+245,Americano,Medium,Thursday,8,5.11,0.97,0,Oat,1
+246,Matcha Latte,Medium,Friday,10,3.74,1.88,0,Oat,0
+247,Americano,Medium,Thursday,11,4.74,2.86,1,Oat,0
+248,Chai Latte,Small,Tuesday,12,4.2,0.27,0,Almond,0
+249,Matcha Latte,Large,Monday,20,5.98,2.5,0,Oat,0
+250,Cold Brew,Medium,Tuesday,10,6.62,0.55,0,Whole,0
+251,Chai Latte,Medium,Tuesday,8,5.55,0.29,1,Oat,0
+252,Matcha Latte,Small,Saturday,13,6.68,3.57,0,Almond,0
+253,Drip Coffee,Small,Tuesday,8,3.55,1.68,1,Oat,1
+254,Americano,Medium,Tuesday,19,6.78,0.94,0,Skim,1
+255,Americano,Large,Monday,9,4.21,1.8,0,Oat,0
+256,Espresso,Medium,Thursday,20,5.34,0.92,0,Whole,0
+257,Americano,Small,Wednesday,11,5.27,0.46,1,Whole,1
+258,Matcha Latte,Small,Tuesday,17,6.99,2.37,0,Whole,1
+259,Cold Brew,Large,Saturday,13,7.36,2.64,0,Whole,1
+260,Mocha,Large,Sunday,19,4.52,0.3,0,Oat,1
+261,Americano,Large,Wednesday,13,3.77,0.35,0,Almond,1
+262,Cold Brew,Small,Saturday,13,6.1,0.39,0,Oat,1
+263,Drip Coffee,Large,Wednesday,14,5.51,1.38,0,Skim,1
+264,Matcha Latte,Large,Tuesday,16,5.76,1.25,0,Whole,1
+265,Chai Latte,Large,Friday,19,3.69,3.27,1,Whole,1
+266,Cappuccino,Small,Sunday,9,6.6,0.5,0,Whole,1
+267,Drip Coffee,Large,Wednesday,8,4.43,1.07,0,None,1
+268,Americano,Medium,Friday,6,4.84,1.55,0,Oat,1
+269,Espresso,Medium,Thursday,10,4.41,0.2,0,Oat,1
+270,Cold Brew,Medium,Wednesday,18,7.28,0.78,0,Whole,1
+271,Americano,Large,Monday,7,4.17,0.63,0,Soy,0
+272,Mocha,Large,Saturday,12,6.43,1.09,1,Almond,1
+273,Mocha,Large,Sunday,14,4.48,0.95,0,Oat,1
+274,Drip Coffee,Medium,Thursday,18,5.2,1.34,0,Almond,0
+275,Mocha,Medium,Thursday,13,7.48,0.3,0,Oat,0
+276,Cappuccino,Medium,Sunday,8,3.9,0.2,1,Whole,0
+277,Flat White,Medium,Friday,20,7.03,1.31,0,Soy,1
+278,Cappuccino,Medium,Tuesday,7,7.28,0.36,0,None,1
+279,Mocha,Large,Saturday,16,6.29,0.27,0,Almond,0
+280,Drip Coffee,Small,Monday,7,3.54,0.33,1,Whole,1
+281,Espresso,Large,Sunday,8,6.78,0.05,0,Whole,1
+282,Matcha Latte,Large,Sunday,19,7.03,1.19,0,None,0
+283,Flat White,Medium,Monday,15,7.42,1.0,0,Oat,0
+284,Chai Latte,Large,Friday,10,6.86,0.64,1,Soy,1
+285,Cappuccino,Medium,Friday,13,5.28,1.01,0,Almond,1
+286,Matcha Latte,Small,Thursday,11,6.25,0.37,1,Almond,0
+287,Latte,Medium,Sunday,7,5.44,0.28,1,Whole,1
+288,Chai Latte,Large,Friday,15,4.91,1.59,0,Whole,1
+289,Espresso,Large,Tuesday,16,6.01,0.44,0,Oat,0
+290,Drip Coffee,Medium,Thursday,18,6.58,0.17,0,None,1
+291,Flat White,Small,Thursday,12,6.04,1.11,0,Whole,1
+292,Drip Coffee,Medium,Thursday,14,6.81,0.33,1,Oat,1
+293,Espresso,Medium,Monday,11,4.21,0.19,0,Almond,0
+294,Mocha,Medium,Saturday,9,4.99,0.02,0,Oat,1
+295,Espresso,Medium,Saturday,11,4.75,2.82,0,Oat,0
+296,Americano,Large,Monday,19,4.28,0.5,1,Almond,0
+297,Flat White,Large,Thursday,8,5.27,0.14,0,Skim,0
+298,Latte,Medium,Tuesday,8,7.29,1.13,0,Oat,0
+299,Cappuccino,Medium,Wednesday,13,5.65,1.75,0,Skim,1
+300,Americano,Large,Thursday,7,4.65,0.6,1,Oat,0
+301,Mocha,Medium,Friday,19,4.92,0.02,0,Almond,1
+302,Chai Latte,Small,Sunday,7,5.95,0.36,0,Whole,1
+303,Americano,Medium,Sunday,15,4.91,0.22,1,Oat,1
+304,Mocha,Large,Saturday,10,5.65,0.81,0,Whole,0
+305,Flat White,Small,Sunday,7,4.6,0.59,0,Oat,1
+306,Americano,Medium,Wednesday,18,4.88,0.35,1,Whole,1
+307,Mocha,Medium,Monday,13,6.32,0.84,0,Skim,0
+308,Cappuccino,Small,Monday,6,5.84,0.7,0,Almond,0
+309,Cold Brew,Medium,Wednesday,9,3.87,1.9,0,Soy,1
+310,Drip Coffee,Small,Saturday,10,7.39,0.73,1,Oat,1
+311,Americano,Medium,Saturday,9,3.7,0.57,1,Skim,1
+312,Flat White,Medium,Friday,12,3.83,1.39,0,Skim,0
+313,Mocha,Medium,Monday,12,6.31,0.18,0,Oat,1
+314,Flat White,Large,Monday,10,6.33,0.22,0,Oat,0
+315,Mocha,Small,Thursday,9,3.58,1.22,0,Oat,0
+316,Latte,Large,Tuesday,12,6.07,0.47,1,Whole,1
+317,Flat White,Small,Friday,6,3.63,0.42,1,None,0
+318,Matcha Latte,Medium,Thursday,13,7.34,1.74,0,Oat,0
+319,Flat White,Medium,Sunday,13,6.28,0.75,1,Oat,1
+320,Americano,Medium,Tuesday,9,4.25,1.3,0,Soy,0
+321,Americano,Medium,Sunday,8,4.13,1.33,0,Whole,1
+322,Cold Brew,Small,Monday,7,5.78,0.1,1,Whole,1
+323,Chai Latte,Medium,Tuesday,13,6.03,0.85,0,Whole,0
+324,Cold Brew,Small,Monday,13,6.82,2.44,0,Oat,1
+325,Latte,Large,Saturday,12,7.11,0.52,0,Whole,1
+326,Cold Brew,Small,Thursday,20,5.07,1.05,0,Soy,1
+327,Cappuccino,Medium,Monday,12,6.88,0.67,0,Oat,0
+328,Drip Coffee,Medium,Tuesday,15,5.67,0.18,1,Oat,1
+329,Matcha Latte,Medium,Thursday,7,5.38,0.17,0,Whole,1
+330,Drip Coffee,Large,Tuesday,9,6.3,0.46,0,Whole,1
+331,Drip Coffee,Medium,Tuesday,9,3.91,0.53,0,Almond,1
+332,Latte,Small,Wednesday,13,4.56,0.56,1,Whole,1
+333,Americano,Large,Monday,9,6.77,2.48,0,Soy,1
+334,Cold Brew,Small,Monday,13,5.52,0.08,1,Whole,1
+335,Americano,Medium,Tuesday,14,7.13,0.38,0,Almond,0
+336,Cold Brew,Large,Sunday,6,3.85,0.58,0,Almond,1
+337,Drip Coffee,Medium,Saturday,13,4.75,2.64,1,Oat,0
+338,Americano,Medium,Monday,7,4.92,0.56,0,None,1
+339,Cappuccino,Small,Friday,11,5.19,1.19,0,Oat,1
+340,Espresso,Large,Saturday,15,7.45,1.11,1,Skim,0
+341,Americano,Large,Saturday,14,4.74,0.67,0,Whole,0
+342,Chai Latte,Medium,Saturday,9,5.57,0.11,1,Oat,1
+343,Espresso,Medium,Monday,9,5.64,0.2,0,Whole,1
+344,Flat White,Medium,Saturday,11,6.58,0.22,1,Almond,1
+345,Cappuccino,Medium,Saturday,8,5.57,0.03,1,Almond,1
+346,Matcha Latte,Small,Thursday,20,5.92,0.38,0,Oat,0
+347,Mocha,Medium,Monday,10,6.51,0.75,0,Soy,1
+348,Espresso,Large,Saturday,19,3.9,0.12,0,Skim,0
+349,Drip Coffee,Medium,Sunday,19,7.35,0.15,1,Soy,0
+350,Cold Brew,Small,Friday,10,6.89,0.98,1,Whole,0
+351,Matcha Latte,Large,Saturday,9,5.06,0.15,0,Oat,1
+352,Cappuccino,Medium,Tuesday,16,6.41,0.12,0,Oat,1
+353,Americano,Medium,Monday,8,6.55,3.05,0,Whole,0
+354,Flat White,Medium,Thursday,12,6.9,0.01,1,Oat,1
+355,Mocha,Medium,Friday,7,4.25,0.31,1,Whole,1
+356,Flat White,Medium,Wednesday,10,6.31,0.03,0,None,1
+357,Chai Latte,Medium,Tuesday,7,3.63,1.46,1,Soy,1
+358,Chai Latte,Medium,Tuesday,9,3.96,0.7,0,Skim,1
+359,Latte,Medium,Tuesday,14,6.6,0.04,1,None,1
+360,Cappuccino,Large,Friday,20,6.75,0.76,0,Almond,1
+361,Americano,Medium,Monday,9,5.87,0.11,1,Whole,0
+362,Mocha,Medium,Monday,12,5.83,0.55,1,Soy,1
+363,Cold Brew,Small,Saturday,11,6.5,0.89,1,Whole,0
+364,Mocha,Small,Saturday,8,7.12,0.13,1,Whole,1
+365,Matcha Latte,Large,Monday,13,5.18,0.55,0,Whole,1
+366,Latte,Large,Sunday,15,3.96,0.49,1,Whole,0
+367,Mocha,Small,Saturday,8,6.86,1.98,1,Soy,1
+368,Chai Latte,Medium,Sunday,15,4.87,4.36,0,Skim,0
+369,Cold Brew,Small,Monday,14,4.04,0.85,0,Whole,1
+370,Espresso,Large,Tuesday,8,5.96,1.54,1,Whole,1
+371,Matcha Latte,Medium,Wednesday,13,5.81,0.83,0,Whole,0
+372,Americano,Medium,Tuesday,10,5.4,1.67,0,Almond,0
+373,Matcha Latte,Small,Sunday,14,6.94,0.45,1,Oat,0
+374,Americano,Medium,Saturday,12,4.59,0.75,0,None,1
+375,Matcha Latte,Medium,Wednesday,7,3.55,1.49,1,Whole,1
+376,Chai Latte,Medium,Wednesday,16,4.79,2.0,0,None,0
+377,Cold Brew,Medium,Monday,12,3.54,0.02,0,Whole,0
+378,Cold Brew,Medium,Thursday,15,5.67,0.09,0,Oat,1
+379,Latte,Small,Friday,7,5.01,2.14,0,Whole,1
+380,Chai Latte,Medium,Thursday,15,6.76,0.67,1,Almond,1
+381,Americano,Large,Wednesday,11,6.69,3.7,1,Whole,1
+382,Cappuccino,Large,Thursday,17,5.24,1.26,0,Skim,0
+383,Latte,Large,Saturday,13,4.37,1.36,1,Whole,1
+384,Cappuccino,Medium,Wednesday,10,5.19,0.39,1,Almond,0
+385,Americano,Large,Tuesday,8,6.07,0.24,1,Whole,0
+386,Chai Latte,Medium,Saturday,17,4.26,0.73,1,Oat,0
+387,Mocha,Small,Tuesday,12,6.59,1.69,0,Whole,1
+388,Drip Coffee,Medium,Saturday,20,4.82,1.03,0,None,0
+389,Cold Brew,Small,Monday,10,7.23,0.51,1,Whole,1
+390,Chai Latte,Small,Sunday,14,5.55,1.12,1,Oat,1
+391,Matcha Latte,Small,Saturday,13,6.89,0.94,0,Oat,1
+392,Mocha,Medium,Friday,13,5.96,1.95,1,Almond,1
+393,Cappuccino,Medium,Tuesday,15,5.72,0.24,0,Whole,0
+394,Flat White,Medium,Saturday,8,6.23,0.1,0,Skim,1
+395,Drip Coffee,Medium,Friday,12,6.75,0.51,0,Oat,0
+396,Mocha,Large,Monday,12,6.08,0.36,0,Oat,0
+397,Matcha Latte,Small,Saturday,10,6.69,2.95,1,Whole,1
+398,Mocha,Medium,Sunday,11,4.26,0.01,0,Oat,1
+399,Drip Coffee,Large,Friday,12,4.61,2.17,0,Oat,1
+400,Americano,Medium,Sunday,9,4.42,2.48,0,Whole,0
+401,Drip Coffee,Large,Saturday,9,6.69,0.04,0,Whole,0
+402,Flat White,Medium,Tuesday,15,3.84,1.76,0,Soy,0
+403,Flat White,Medium,Tuesday,7,6.68,0.51,1,Whole,1
+404,Matcha Latte,Small,Thursday,9,5.06,1.16,0,Whole,0
+405,Latte,Large,Thursday,14,3.82,0.07,1,Almond,0
+406,Mocha,Small,Saturday,8,5.2,2.48,0,Whole,0
+407,Cappuccino,Medium,Thursday,13,4.7,0.75,1,Oat,1
+408,Matcha Latte,Medium,Saturday,9,5.87,1.83,0,Almond,1
+409,Americano,Medium,Saturday,18,5.39,0.89,0,Whole,1
+410,Americano,Large,Sunday,10,4.69,0.62,1,Oat,1
+411,Latte,Small,Friday,8,6.95,0.15,1,Whole,0
+412,Mocha,Medium,Tuesday,12,5.13,0.16,0,Oat,0
+413,Mocha,Medium,Monday,8,5.38,0.51,0,None,0
+414,Espresso,Small,Wednesday,17,6.89,1.63,0,Oat,1
+415,Matcha Latte,Large,Tuesday,14,3.86,0.1,0,Almond,1
+416,Cappuccino,Medium,Thursday,16,5.06,5.0,0,Almond,1
+417,Espresso,Medium,Saturday,11,5.11,1.67,0,Soy,1
+418,Drip Coffee,Large,Thursday,18,5.48,0.4,1,Soy,0
+419,Espresso,Medium,Friday,12,3.92,0.23,1,Whole,1
+420,Espresso,Large,Thursday,7,3.91,2.04,0,Oat,1
+421,Cold Brew,Large,Friday,8,5.17,0.11,1,Skim,0
+422,Cold Brew,Medium,Monday,15,3.63,0.34,0,Oat,1
+423,Espresso,Large,Saturday,19,4.52,0.07,0,Whole,1
+424,Cold Brew,Medium,Thursday,7,4.3,2.45,1,Whole,1
+425,Flat White,Large,Friday,18,5.46,0.77,1,Whole,0
+426,Cold Brew,Medium,Thursday,17,3.54,0.33,1,Skim,0
+427,Chai Latte,Large,Friday,10,6.2,0.26,1,Almond,0
+428,Americano,Medium,Sunday,14,6.92,0.47,0,Almond,0
+429,Chai Latte,Large,Saturday,8,6.33,0.08,0,Oat,1
+430,Matcha Latte,Large,Saturday,17,6.77,1.76,1,Whole,1
+431,Espresso,Medium,Tuesday,14,6.07,0.57,0,Whole,1
+432,Americano,Medium,Friday,11,5.53,1.03,0,Oat,0
+433,Flat White,Large,Wednesday,18,4.38,0.21,0,Whole,0
+434,Espresso,Medium,Monday,8,4.62,0.56,1,Whole,1
+435,Matcha Latte,Small,Tuesday,18,4.77,0.19,1,Whole,1
+436,Latte,Medium,Monday,6,3.65,1.35,0,Soy,0
+437,Matcha Latte,Medium,Tuesday,15,7.15,1.19,1,Whole,1
+438,Americano,Medium,Thursday,13,7.1,0.13,1,Oat,0
+439,Matcha Latte,Medium,Friday,14,3.93,0.06,0,Skim,1
+440,Espresso,Small,Thursday,11,5.73,1.39,0,Whole,0
+441,Cold Brew,Medium,Monday,18,5.37,0.09,0,Oat,1
+442,Chai Latte,Medium,Saturday,9,6.23,0.64,0,Skim,0
+443,Flat White,Medium,Monday,9,5.91,0.61,1,Almond,1
+444,Cappuccino,Medium,Tuesday,9,4.0,0.18,1,Soy,0
+445,Americano,Medium,Monday,16,6.14,0.72,0,Whole,1
+446,Drip Coffee,Medium,Friday,12,5.94,0.56,1,None,1
+447,Flat White,Large,Monday,12,5.62,0.57,0,Whole,1
+448,Mocha,Medium,Thursday,18,5.11,0.36,0,None,0
+449,Americano,Small,Saturday,18,7.32,1.46,1,None,1
+450,Cappuccino,Medium,Friday,8,6.9,0.07,0,Almond,0
+451,Latte,Large,Monday,12,5.84,0.46,1,Almond,0
+452,Drip Coffee,Small,Wednesday,7,3.53,0.24,0,Soy,1
+453,Chai Latte,Large,Wednesday,18,5.23,1.51,0,Oat,0
+454,Cappuccino,Medium,Saturday,18,6.3,0.2,0,Oat,1
+455,Flat White,Medium,Thursday,18,3.97,1.17,0,None,1
+456,Espresso,Large,Tuesday,14,5.13,0.76,0,Whole,1
+457,Matcha Latte,Medium,Tuesday,11,4.27,1.66,1,None,0
+458,Espresso,Large,Saturday,11,4.85,0.72,0,Soy,0
+459,Latte,Large,Monday,10,3.61,0.65,0,Soy,1
+460,Espresso,Large,Friday,7,4.01,1.29,0,Whole,0
+461,Americano,Large,Saturday,19,5.32,0.66,1,Whole,1
+462,Latte,Medium,Tuesday,11,7.09,1.49,0,None,0
+463,Espresso,Medium,Wednesday,19,5.46,0.04,1,Whole,0
+464,Espresso,Medium,Tuesday,18,5.31,0.55,0,Almond,1
+465,Latte,Large,Wednesday,17,6.65,1.34,0,Soy,1
+466,Mocha,Medium,Tuesday,13,4.57,1.51,1,Whole,0
+467,Latte,Small,Thursday,7,3.88,1.44,0,Almond,0
+468,Latte,Large,Saturday,9,4.34,0.74,0,Whole,1
+469,Matcha Latte,Medium,Friday,13,6.67,4.09,0,Oat,0
+470,Cold Brew,Medium,Saturday,6,6.21,0.16,1,Oat,0
+471,Matcha Latte,Large,Sunday,7,3.87,0.15,0,Almond,0
+472,Matcha Latte,Medium,Monday,14,6.17,0.03,0,Skim,1
+473,Latte,Medium,Wednesday,18,7.23,3.63,0,Whole,1
+474,Flat White,Medium,Tuesday,18,3.68,0.34,0,Oat,1
+475,Chai Latte,Medium,Monday,8,5.97,1.15,1,Oat,0
+476,Matcha Latte,Small,Wednesday,19,5.02,0.05,0,Oat,0
+477,Chai Latte,Medium,Saturday,14,5.5,0.28,1,Oat,1
+478,Matcha Latte,Small,Wednesday,15,5.61,0.78,1,Skim,0
+479,Americano,Medium,Thursday,9,6.58,0.6,0,None,0
+480,Drip Coffee,Medium,Tuesday,15,5.73,0.19,1,Whole,1
+481,Flat White,Medium,Sunday,14,5.87,0.5,0,Soy,0
+482,Chai Latte,Medium,Saturday,13,4.83,0.09,1,Almond,1
+483,Chai Latte,Medium,Sunday,10,4.0,0.63,0,None,1
+484,Americano,Medium,Monday,17,6.23,0.08,1,Whole,1
+485,Flat White,Medium,Tuesday,19,3.5,0.81,0,Skim,0
+486,Mocha,Large,Saturday,18,4.81,0.14,1,None,1
+487,Cappuccino,Large,Sunday,8,4.37,0.63,1,None,1
+488,Drip Coffee,Medium,Tuesday,11,5.05,0.11,0,Almond,1
+489,Mocha,Large,Friday,10,4.75,0.41,0,Oat,1
+490,Matcha Latte,Medium,Wednesday,14,6.32,0.35,1,Almond,1
+491,Latte,Large,Sunday,18,4.54,1.13,0,Oat,1
+492,Cappuccino,Medium,Wednesday,8,5.74,0.82,1,Oat,0
+493,Matcha Latte,Large,Friday,19,5.32,2.21,1,Oat,1
+494,Americano,Medium,Friday,14,6.7,2.04,1,Oat,1
+495,Americano,Medium,Tuesday,8,5.21,1.03,0,Oat,1
+496,Latte,Medium,Wednesday,10,6.96,1.18,0,Whole,0
+497,Drip Coffee,Medium,Monday,7,3.5,0.78,1,Whole,1
+498,Espresso,Large,Thursday,13,5.92,0.94,0,Oat,0
+499,Flat White,Medium,Saturday,8,3.54,0.77,0,Whole,1
+500,Americano,Medium,Friday,14,6.36,0.3,0,Skim,1
+501,Mocha,Medium,Monday,15,4.44,0.35,1,Oat,0
+502,Matcha Latte,Medium,Monday,12,5.02,0.68,0,Soy,1
+503,Flat White,Small,Tuesday,7,5.02,1.02,1,Whole,0
+504,Flat White,Large,Friday,13,6.89,0.42,0,Skim,0
+505,Mocha,Large,Monday,10,3.91,0.12,0,None,0
+506,Americano,Medium,Thursday,19,6.17,0.49,1,Oat,0
+507,Americano,Large,Monday,12,7.43,2.64,0,Whole,0
+508,Chai Latte,Large,Thursday,7,3.59,0.19,0,Almond,0
+509,Cold Brew,Medium,Sunday,13,7.36,0.84,1,Almond,1
+510,Chai Latte,Large,Thursday,16,3.57,3.24,0,Whole,0
+511,Chai Latte,Medium,Thursday,8,6.86,0.38,0,None,1
+512,Americano,Large,Friday,11,7.34,1.75,0,Oat,1
+513,Latte,Small,Sunday,15,7.47,1.6,0,Soy,1
+514,Latte,Large,Thursday,6,5.34,0.33,1,Oat,1
+515,Chai Latte,Large,Friday,6,6.97,0.08,0,Whole,0
+516,Chai Latte,Medium,Sunday,14,3.99,0.16,0,Whole,0
+517,Cappuccino,Medium,Monday,15,5.2,0.36,0,Whole,0
+518,Cold Brew,Large,Sunday,18,4.73,2.56,0,None,1
+519,Cold Brew,Large,Thursday,11,5.08,0.26,0,Almond,0
+520,Latte,Small,Sunday,10,6.31,2.09,0,Skim,1
+521,Latte,Large,Wednesday,12,3.85,0.16,1,None,1
+522,Drip Coffee,Medium,Monday,15,7.49,2.8,1,Whole,1
+523,Espresso,Large,Saturday,13,6.04,0.28,1,Whole,0
+524,Latte,Medium,Sunday,9,6.99,0.8,0,None,0
+525,Flat White,Small,Sunday,10,6.82,0.06,0,Almond,0
+526,Espresso,Medium,Sunday,16,6.56,0.28,1,Almond,1
+527,Espresso,Medium,Wednesday,12,3.66,0.19,0,Oat,0
+528,Chai Latte,Large,Wednesday,7,5.57,0.0,1,Skim,1
+529,Latte,Small,Tuesday,8,4.81,0.14,1,Oat,1
+530,Americano,Large,Friday,18,3.95,0.72,0,Skim,0
+531,Cappuccino,Large,Tuesday,20,4.87,0.4,0,None,0
+532,Americano,Large,Friday,9,6.08,1.03,0,Almond,1
+533,Flat White,Medium,Tuesday,10,4.42,0.89,0,Oat,1
+534,Drip Coffee,Medium,Monday,8,5.28,1.28,1,Oat,1
+535,Latte,Small,Wednesday,8,5.12,1.61,1,Whole,0
+536,Latte,Medium,Monday,11,3.71,1.37,1,Almond,1
+537,Chai Latte,Large,Friday,9,6.01,0.48,0,Whole,0
+538,Mocha,Small,Wednesday,14,5.98,0.3,1,None,0
+539,Flat White,Large,Wednesday,12,7.37,0.56,1,Almond,1
+540,Cold Brew,Small,Friday,17,4.69,0.61,1,None,1
+541,Cold Brew,Small,Monday,15,5.18,0.3,1,Whole,0
+542,Americano,Small,Wednesday,7,5.11,0.62,0,None,0
+543,Matcha Latte,Large,Saturday,7,7.18,0.09,0,Almond,1
+544,Flat White,Medium,Sunday,19,5.13,0.21,0,Skim,1
+545,Drip Coffee,Small,Monday,17,5.27,1.1,0,Whole,1
+546,Latte,Medium,Monday,11,4.51,0.16,1,Oat,0
+547,Latte,Large,Monday,7,3.5,0.12,0,Almond,1
+548,Mocha,Medium,Wednesday,19,3.94,0.27,0,Oat,1
+549,Espresso,Small,Thursday,8,6.32,0.37,0,Whole,1
+550,Flat White,Small,Sunday,6,6.23,0.32,1,None,1
+551,Matcha Latte,Large,Tuesday,19,4.79,0.38,0,Whole,1
+552,Drip Coffee,Medium,Friday,17,5.39,0.12,0,Whole,0
+553,Matcha Latte,Large,Monday,14,4.69,0.14,0,Oat,0
+554,Cappuccino,Medium,Wednesday,6,6.42,0.22,0,None,1
+555,Flat White,Small,Friday,12,6.87,0.41,1,Almond,1
+556,Espresso,Medium,Thursday,14,7.1,0.33,0,Oat,1
+557,Cappuccino,Medium,Saturday,16,4.2,1.25,0,Oat,0
+558,Mocha,Medium,Thursday,12,6.28,0.6,1,Skim,0
+559,Chai Latte,Large,Wednesday,19,7.35,0.69,0,Whole,1
+560,Cold Brew,Medium,Monday,8,6.1,0.66,1,Whole,1
+561,Cold Brew,Medium,Thursday,7,4.9,0.41,1,Whole,0
+562,Chai Latte,Medium,Sunday,9,6.04,3.15,1,Oat,1
+563,Chai Latte,Small,Thursday,14,6.25,0.03,0,Almond,0
+564,Mocha,Medium,Thursday,15,5.09,0.19,0,Almond,1
+565,Cold Brew,Medium,Sunday,15,3.92,0.27,0,Soy,1
+566,Drip Coffee,Small,Saturday,7,5.93,1.7,0,Whole,1
+567,Latte,Medium,Wednesday,18,6.71,2.01,0,Whole,0
+568,Matcha Latte,Medium,Friday,9,7.49,1.5,0,Whole,1
+569,Matcha Latte,Large,Tuesday,8,4.39,0.43,0,Whole,1
+570,Flat White,Medium,Wednesday,13,6.3,1.97,0,Whole,0
+571,Matcha Latte,Medium,Monday,8,3.61,0.08,1,Almond,1
+572,Cappuccino,Medium,Wednesday,12,7.38,0.85,1,Oat,1
+573,Cappuccino,Medium,Wednesday,11,3.55,2.21,0,Soy,1
+574,Latte,Medium,Saturday,8,4.94,1.12,1,Oat,0
+575,Espresso,Small,Tuesday,9,3.81,0.26,1,Whole,1
+576,Cappuccino,Medium,Tuesday,11,5.98,1.01,0,Oat,0
+577,Cappuccino,Medium,Tuesday,10,4.86,0.28,0,Almond,1
+578,Flat White,Small,Friday,10,6.43,0.09,0,Skim,1
+579,Drip Coffee,Medium,Wednesday,15,5.45,1.01,1,Skim,1
+580,Chai Latte,Medium,Saturday,8,5.18,0.16,0,Oat,1
+581,Espresso,Large,Monday,13,4.89,0.09,1,Almond,0
+582,Matcha Latte,Small,Tuesday,14,3.84,0.64,1,Whole,1
+583,Espresso,Large,Sunday,17,4.32,0.78,1,Almond,0
+584,Cappuccino,Small,Tuesday,18,6.06,0.04,0,None,1
+585,Americano,Medium,Sunday,8,5.49,0.0,0,Almond,0
+586,Matcha Latte,Medium,Wednesday,8,3.78,1.71,0,Oat,0
+587,Espresso,Medium,Monday,13,5.68,0.1,0,Almond,1
+588,Latte,Large,Saturday,15,3.72,0.7,1,None,1
+589,Cold Brew,Medium,Tuesday,9,5.55,2.46,1,Whole,0
+590,Mocha,Medium,Wednesday,12,7.36,0.57,1,Oat,0
+591,Cold Brew,Large,Thursday,16,4.73,0.12,0,Oat,1
+592,Cappuccino,Medium,Saturday,16,6.39,0.4,0,Whole,1
+593,Drip Coffee,Medium,Sunday,14,6.48,0.78,1,Oat,0
+594,Flat White,Medium,Friday,7,5.12,1.15,1,Oat,1
+595,Espresso,Large,Saturday,7,5.87,0.75,0,Whole,0
+596,Latte,Large,Wednesday,10,5.39,0.03,1,Oat,0
+597,Chai Latte,Medium,Tuesday,6,4.63,0.12,0,Almond,1
+598,Americano,Large,Saturday,19,6.52,0.37,0,Whole,1
+599,Matcha Latte,Medium,Monday,6,6.31,0.98,1,None,0
+600,Chai Latte,Large,Sunday,6,7.1,0.7,1,Whole,1
+601,Flat White,Small,Thursday,8,5.97,0.04,0,Almond,1
+602,Espresso,Small,Monday,13,5.05,1.28,1,Whole,1
+603,Cold Brew,Medium,Monday,12,6.36,0.74,1,Oat,1
+604,Mocha,Large,Monday,14,5.98,1.75,0,Oat,0
+605,Matcha Latte,Large,Wednesday,19,5.97,0.43,1,Almond,1
+606,Drip Coffee,Medium,Wednesday,11,6.9,0.54,0,Soy,1
+607,Matcha Latte,Small,Saturday,7,7.14,0.42,0,Soy,0
+608,Chai Latte,Medium,Sunday,16,4.22,1.03,0,Oat,0
+609,Chai Latte,Large,Friday,17,4.76,1.12,0,Whole,1
+610,Americano,Medium,Sunday,7,6.1,1.03,0,Almond,1
+611,Mocha,Large,Thursday,8,5.73,0.28,0,Oat,1
+612,Cappuccino,Small,Saturday,16,6.11,0.81,1,Whole,1
+613,Espresso,Medium,Monday,10,5.23,0.33,0,Whole,1
+614,Mocha,Medium,Saturday,12,5.15,1.44,0,Oat,1
+615,Espresso,Large,Sunday,17,3.97,0.05,1,Whole,0
+616,Chai Latte,Medium,Tuesday,7,5.99,0.03,0,Oat,0
+617,Mocha,Medium,Saturday,14,4.2,0.09,0,Soy,1
+618,Espresso,Medium,Sunday,8,6.18,0.18,0,Oat,1
+619,Cappuccino,Large,Saturday,7,7.37,0.03,0,None,1
+620,Espresso,Medium,Sunday,14,4.53,0.06,0,Whole,0
+621,Latte,Medium,Monday,7,4.07,0.29,0,Whole,1
+622,Mocha,Medium,Saturday,15,3.6,0.08,0,Almond,1
+623,Flat White,Medium,Thursday,8,5.02,1.3,0,Skim,1
+624,Espresso,Large,Monday,7,4.36,0.04,0,Almond,1
+625,Drip Coffee,Small,Wednesday,7,5.47,1.91,0,Almond,0
+626,Cold Brew,Medium,Wednesday,18,5.6,1.64,0,Skim,0
+627,Mocha,Large,Saturday,10,4.9,0.19,1,Almond,1
+628,Americano,Large,Saturday,9,6.5,0.06,0,Soy,1
+629,Mocha,Medium,Thursday,12,7.12,0.09,0,Skim,1
+630,Cold Brew,Small,Sunday,13,4.35,0.66,1,Whole,1
+631,Flat White,Medium,Sunday,7,6.85,0.73,1,Skim,0
+632,Americano,Medium,Friday,19,4.02,0.3,0,Whole,0
+633,Espresso,Medium,Monday,19,4.41,0.28,0,None,0
+634,Latte,Medium,Thursday,11,5.75,0.61,1,Whole,1
+635,Mocha,Large,Saturday,11,4.73,0.29,1,Oat,1
+636,Drip Coffee,Small,Saturday,18,3.67,2.18,0,None,1
+637,Latte,Medium,Saturday,11,4.68,0.39,0,Whole,1
+638,Cold Brew,Medium,Saturday,18,7.12,0.2,1,Soy,1
+639,Americano,Medium,Tuesday,6,4.2,0.13,0,Oat,0
+640,Flat White,Medium,Saturday,12,6.56,0.8,1,Whole,0
+641,Americano,Medium,Saturday,19,6.39,0.32,0,None,0
+642,Flat White,Large,Tuesday,8,3.92,0.17,1,Whole,1
+643,Matcha Latte,Large,Friday,9,4.82,0.26,1,Soy,1
+644,Flat White,Small,Sunday,13,4.26,0.29,0,Oat,1
+645,Latte,Small,Wednesday,19,3.59,0.79,0,Skim,1
+646,Espresso,Large,Saturday,8,4.19,0.15,0,Soy,0
+647,Cold Brew,Medium,Sunday,19,4.31,1.06,0,Almond,1
+648,Flat White,Large,Saturday,14,4.16,0.29,0,None,1
+649,Espresso,Medium,Thursday,20,3.86,0.54,0,Whole,0
+650,Matcha Latte,Small,Monday,15,5.61,0.85,0,Soy,0
+651,Cappuccino,Medium,Thursday,14,4.79,0.63,1,Almond,1
+652,Flat White,Medium,Saturday,17,7.13,0.87,0,Oat,0
+653,Cappuccino,Medium,Friday,8,4.25,0.31,1,Oat,1
+654,Americano,Large,Thursday,19,5.91,2.65,1,Almond,0
+655,Matcha Latte,Medium,Friday,8,7.1,0.49,0,Soy,0
+656,Latte,Small,Friday,6,3.69,0.31,0,Whole,0
+657,Mocha,Large,Saturday,14,5.57,0.28,0,Whole,1
+658,Drip Coffee,Medium,Friday,8,5.3,0.03,0,Whole,0
+659,Chai Latte,Medium,Thursday,15,7.22,0.92,1,Whole,1
+660,Drip Coffee,Medium,Tuesday,16,6.16,0.24,0,Whole,0
+661,Chai Latte,Medium,Monday,8,4.9,2.55,1,Oat,0
+662,Cold Brew,Medium,Friday,7,6.35,0.19,1,Oat,0
+663,Cappuccino,Medium,Sunday,12,5.83,0.6,0,Skim,0
+664,Mocha,Large,Saturday,18,4.89,1.06,0,Soy,1
+665,Chai Latte,Medium,Wednesday,18,6.64,1.63,0,Whole,1
+666,Mocha,Medium,Friday,7,6.17,0.14,1,Whole,0
+667,Americano,Medium,Sunday,20,3.52,3.38,0,Soy,0
+668,Cold Brew,Small,Thursday,9,6.96,1.9,1,Skim,1
+669,Flat White,Large,Friday,10,5.09,2.63,1,Soy,1
+670,Drip Coffee,Medium,Wednesday,8,6.08,1.53,0,Almond,1
+671,Cappuccino,Small,Sunday,10,5.09,1.68,0,Whole,0
+672,Chai Latte,Medium,Tuesday,13,7.03,0.73,0,Oat,0
+673,Espresso,Small,Thursday,12,6.1,1.49,0,Soy,1
+674,Matcha Latte,Large,Thursday,17,5.82,0.61,0,Whole,0
+675,Cold Brew,Medium,Saturday,13,7.42,0.62,0,Oat,1
+676,Drip Coffee,Medium,Thursday,9,4.62,0.66,0,Whole,0
+677,Chai Latte,Large,Wednesday,12,3.76,4.48,0,Oat,0
+678,Latte,Medium,Sunday,7,5.56,0.09,0,Almond,0
+679,Espresso,Medium,Thursday,13,5.2,1.31,0,Oat,1
+680,Drip Coffee,Large,Tuesday,10,5.32,0.26,1,Oat,1
+681,Flat White,Medium,Monday,7,5.98,0.36,0,Almond,0
+682,Drip Coffee,Large,Monday,9,5.96,0.07,0,None,0
+683,Chai Latte,Large,Friday,19,5.07,0.35,0,Almond,1
+684,Cold Brew,Large,Monday,13,6.95,3.75,0,Soy,0
+685,Americano,Medium,Wednesday,19,6.11,0.4,0,Whole,1
+686,Americano,Medium,Monday,11,7.06,0.89,1,Oat,1
+687,Matcha Latte,Large,Wednesday,20,7.15,0.1,1,Whole,0
+688,Espresso,Large,Wednesday,10,4.17,2.05,1,Whole,0
+689,Espresso,Large,Friday,15,6.22,1.41,0,Oat,1
+690,Matcha Latte,Large,Monday,9,4.77,0.39,1,Oat,0
+691,Latte,Large,Friday,7,6.85,0.34,1,Almond,0
+692,Drip Coffee,Small,Thursday,18,6.43,0.45,1,Skim,0
+693,Mocha,Medium,Tuesday,16,4.29,0.41,0,Soy,1
+694,Latte,Small,Sunday,17,7.25,0.24,0,Whole,1
+695,Cold Brew,Small,Monday,9,6.23,3.75,1,Soy,1
+696,Cappuccino,Medium,Thursday,14,7.29,1.33,1,Oat,0
+697,Flat White,Small,Saturday,8,4.31,0.25,1,Soy,1
+698,Chai Latte,Medium,Sunday,6,6.98,3.2,0,Oat,0
+699,Latte,Large,Sunday,18,6.17,0.01,0,Whole,0
+700,Flat White,Medium,Sunday,12,5.71,0.46,1,Almond,1
+701,Matcha Latte,Small,Thursday,20,6.78,0.67,0,Almond,1
+702,Drip Coffee,Large,Friday,10,6.03,0.03,1,None,0
+703,Matcha Latte,Large,Friday,19,6.18,0.14,0,Whole,1
+704,Flat White,Medium,Sunday,13,4.51,0.24,1,Almond,0
+705,Americano,Medium,Sunday,12,6.77,1.02,0,Oat,1
+706,Americano,Medium,Tuesday,9,6.1,2.25,0,Oat,1
+707,Drip Coffee,Medium,Tuesday,17,6.88,0.78,0,Soy,0
+708,Chai Latte,Small,Sunday,17,4.91,0.66,0,Skim,0
+709,Drip Coffee,Medium,Tuesday,11,4.83,0.62,0,Soy,0
+710,Chai Latte,Large,Sunday,15,3.6,0.35,1,Whole,1
+711,Cold Brew,Medium,Tuesday,11,6.57,1.41,0,Oat,1
+712,Flat White,Medium,Sunday,15,4.82,0.62,1,Whole,0
+713,Flat White,Medium,Friday,20,4.81,0.21,0,Oat,1
+714,Chai Latte,Medium,Wednesday,9,6.25,0.12,0,Almond,1
+715,Flat White,Medium,Friday,13,4.51,3.39,1,Oat,0
+716,Matcha Latte,Medium,Wednesday,10,7.14,0.01,1,Soy,1
+717,Flat White,Large,Friday,12,5.65,2.17,1,Almond,1
+718,Americano,Small,Saturday,18,7.38,0.2,0,Almond,0
+719,Latte,Large,Friday,10,3.81,0.86,1,Oat,1
+720,Cappuccino,Large,Tuesday,7,4.85,0.29,1,Oat,0
+721,Flat White,Small,Wednesday,17,5.03,1.57,1,Oat,1
+722,Chai Latte,Small,Thursday,12,6.42,0.63,1,Whole,0
+723,Latte,Medium,Saturday,11,4.35,0.12,0,Skim,0
+724,Flat White,Medium,Thursday,8,5.0,0.25,0,Skim,1
+725,Americano,Small,Saturday,7,7.14,0.31,0,Soy,1
+726,Flat White,Medium,Thursday,9,3.96,1.74,1,Almond,0
+727,Cold Brew,Large,Tuesday,15,6.48,1.16,1,Almond,1
+728,Flat White,Small,Thursday,11,6.31,1.42,1,Oat,1
+729,Mocha,Medium,Sunday,13,4.02,0.04,0,Whole,0
+730,Latte,Large,Friday,7,6.25,0.69,1,Oat,1
+731,Flat White,Large,Tuesday,7,5.78,5.0,1,None,1
+732,Cold Brew,Medium,Sunday,6,4.65,1.23,0,Whole,1
+733,Chai Latte,Small,Thursday,14,4.74,0.1,0,Oat,1
+734,Espresso,Large,Tuesday,9,6.83,0.91,1,Skim,1
+735,Espresso,Large,Friday,20,4.42,1.09,0,Oat,1
+736,Latte,Large,Tuesday,9,5.55,0.58,0,Almond,1
+737,Matcha Latte,Small,Thursday,10,6.22,0.07,0,Skim,0
+738,Chai Latte,Large,Tuesday,11,4.02,0.03,0,Oat,1
+739,Flat White,Medium,Saturday,9,7.23,2.22,0,Soy,0
+740,Espresso,Large,Monday,17,4.54,0.24,1,Oat,1
+741,Flat White,Medium,Thursday,18,4.78,0.38,0,Soy,1
+742,Matcha Latte,Medium,Friday,6,6.16,1.27,1,Whole,1
+743,Flat White,Small,Wednesday,14,3.81,0.94,0,Whole,0
+744,Cold Brew,Medium,Tuesday,14,6.01,2.77,1,Almond,1
+745,Flat White,Medium,Saturday,19,7.16,0.08,0,Oat,0
+746,Drip Coffee,Small,Tuesday,10,4.5,0.98,1,Skim,0
+747,Latte,Medium,Thursday,8,4.95,0.07,0,Oat,1
+748,Chai Latte,Medium,Saturday,12,4.43,0.0,0,Soy,0
+749,Latte,Large,Thursday,11,6.78,0.1,0,Whole,1
+750,Latte,Small,Monday,16,4.17,0.77,0,None,0
+751,Cold Brew,Large,Friday,19,4.89,0.9,0,Oat,1
+752,Matcha Latte,Large,Saturday,7,5.9,0.46,1,Whole,1
+753,Mocha,Medium,Saturday,18,5.12,0.04,0,Soy,1
+754,Chai Latte,Small,Tuesday,19,3.76,0.8,0,None,1
+755,Mocha,Large,Tuesday,19,7.29,0.07,0,None,1
+756,Cold Brew,Medium,Wednesday,16,4.85,0.12,0,Whole,0
+757,Espresso,Small,Sunday,15,5.28,0.57,0,Almond,0
+758,Matcha Latte,Medium,Saturday,6,4.17,0.33,0,Oat,1
+759,Cappuccino,Medium,Tuesday,19,6.96,0.5,1,Soy,1
+760,Latte,Medium,Tuesday,10,4.67,0.81,0,Oat,1
+761,Flat White,Large,Sunday,7,3.58,0.14,1,Oat,1
+762,Latte,Large,Monday,11,4.77,1.79,0,Skim,0
+763,Espresso,Large,Wednesday,15,7.44,0.66,0,Skim,0
+764,Latte,Medium,Sunday,11,4.09,0.02,1,Soy,0
+765,Mocha,Large,Tuesday,15,3.62,0.79,0,Soy,1
+766,Latte,Medium,Tuesday,12,5.81,0.5,0,Almond,1
+767,Espresso,Large,Friday,9,4.99,0.97,1,Whole,1
+768,Espresso,Medium,Saturday,8,6.68,1.23,1,Soy,1
+769,Americano,Small,Tuesday,11,6.43,2.24,0,Almond,0
+770,Matcha Latte,Large,Monday,6,4.24,5.0,0,Oat,0
+771,Mocha,Medium,Tuesday,11,5.76,0.64,0,Skim,0
+772,Americano,Large,Saturday,7,3.63,0.66,1,Skim,0
+773,Mocha,Medium,Tuesday,18,5.26,0.02,1,None,0
+774,Mocha,Large,Sunday,13,6.36,1.6,1,Oat,0
+775,Chai Latte,Medium,Thursday,13,5.16,0.02,1,Almond,1
+776,Americano,Medium,Tuesday,9,3.97,0.8,0,None,1
+777,Mocha,Medium,Wednesday,8,3.75,0.08,0,Oat,0
+778,Drip Coffee,Medium,Saturday,14,6.91,0.27,1,Soy,1
+779,Espresso,Large,Saturday,14,7.07,0.12,0,None,0
+780,Flat White,Medium,Thursday,7,4.87,0.12,0,Almond,1
+781,Flat White,Small,Wednesday,8,4.16,0.06,0,None,0
+782,Espresso,Medium,Wednesday,19,7.41,0.31,1,Oat,1
+783,Matcha Latte,Medium,Saturday,9,5.68,0.44,1,Whole,0
+784,Cold Brew,Medium,Monday,6,5.41,0.5,0,Whole,1
+785,Chai Latte,Small,Tuesday,7,6.47,0.46,0,Soy,1
+786,Matcha Latte,Medium,Wednesday,16,4.18,0.59,0,Whole,1
+787,Cappuccino,Large,Tuesday,15,5.82,1.57,0,Almond,1
+788,Espresso,Small,Tuesday,10,7.06,0.8,1,Whole,0
+789,Cappuccino,Medium,Sunday,8,3.59,0.01,1,None,0
+790,Latte,Small,Monday,12,6.19,0.15,1,Whole,0
+791,Latte,Small,Monday,9,5.71,0.34,0,Almond,1
+792,Americano,Medium,Wednesday,10,7.3,2.38,1,Almond,0
+793,Latte,Medium,Wednesday,9,4.53,0.07,0,Skim,0
+794,Matcha Latte,Medium,Saturday,7,6.94,0.99,1,Oat,1
+795,Cold Brew,Large,Sunday,16,4.74,0.03,1,None,1
+796,Espresso,Large,Sunday,13,5.22,0.36,1,Oat,0
+797,Mocha,Large,Thursday,18,4.35,1.18,0,Whole,1
+798,Flat White,Medium,Tuesday,12,6.95,0.34,0,Almond,0
+799,Espresso,Medium,Saturday,20,4.28,0.45,1,Almond,0
+800,Cappuccino,Medium,Tuesday,19,6.94,1.89,0,Oat,1
+801,Chai Latte,Large,Monday,9,5.32,0.05,0,Soy,1
+802,Flat White,Medium,Monday,10,6.84,0.6,0,Oat,1
+803,Americano,Small,Sunday,15,4.56,0.36,0,Whole,1
+804,Mocha,Small,Saturday,16,4.03,2.66,0,Whole,0
+805,Mocha,Medium,Wednesday,19,5.72,1.26,0,None,1
+806,Cappuccino,Small,Thursday,14,5.54,0.1,0,Soy,1
+807,Latte,Medium,Sunday,12,4.93,2.1,0,Whole,0
+808,Cold Brew,Medium,Thursday,10,6.15,0.19,1,Whole,1
+809,Matcha Latte,Small,Monday,11,3.88,0.07,1,Oat,1
+810,Cappuccino,Medium,Monday,18,5.99,0.62,0,Skim,0
+811,Cold Brew,Large,Thursday,20,4.35,1.07,1,Whole,1
+812,Cappuccino,Small,Thursday,7,4.02,1.01,1,Oat,1
+813,Flat White,Small,Wednesday,13,7.14,0.61,0,Whole,0
+814,Mocha,Small,Thursday,12,5.34,0.54,0,Soy,0
+815,Mocha,Medium,Tuesday,10,6.55,2.79,0,Whole,1
+816,Espresso,Medium,Thursday,18,3.86,1.37,0,Whole,0
+817,Latte,Medium,Friday,13,3.73,0.96,1,Almond,1
+818,Mocha,Medium,Thursday,9,5.48,0.17,0,Oat,1
+819,Matcha Latte,Medium,Monday,11,4.76,1.37,0,Soy,0
+820,Cold Brew,Large,Monday,10,3.52,1.11,1,Whole,1
+821,Latte,Small,Sunday,11,4.23,3.87,1,Oat,1
+822,Cold Brew,Large,Friday,7,4.38,0.11,0,Whole,1
+823,Chai Latte,Medium,Tuesday,7,4.65,1.01,1,Almond,1
+824,Mocha,Medium,Thursday,13,7.01,3.09,0,Whole,1
+825,Cold Brew,Medium,Thursday,14,5.18,0.5,0,Whole,1
+826,Drip Coffee,Small,Friday,13,6.22,1.06,1,Oat,0
+827,Mocha,Medium,Sunday,16,3.57,2.96,0,Oat,1
+828,Chai Latte,Small,Wednesday,19,6.76,0.63,0,Oat,0
+829,Flat White,Small,Wednesday,18,4.46,0.96,1,Almond,0
+830,Drip Coffee,Medium,Sunday,11,4.74,0.02,1,Oat,0
+831,Cappuccino,Large,Tuesday,8,3.68,0.59,1,Whole,1
+832,Drip Coffee,Large,Thursday,9,5.14,0.24,0,Oat,1
+833,Drip Coffee,Medium,Thursday,13,6.91,0.11,1,Whole,1
+834,Cold Brew,Medium,Thursday,18,5.01,0.99,1,Whole,1
+835,Americano,Large,Sunday,14,7.13,0.03,1,Whole,1
+836,Cold Brew,Medium,Monday,12,6.97,1.88,1,Whole,1
+837,Matcha Latte,Small,Saturday,13,3.75,0.58,0,Skim,1
+838,Mocha,Medium,Wednesday,12,4.72,0.84,0,Almond,1
+839,Americano,Medium,Sunday,20,7.14,0.23,0,Oat,0
+840,Cold Brew,Medium,Saturday,17,3.62,0.16,0,Soy,0
+841,Flat White,Medium,Friday,16,6.56,0.22,1,None,0
+842,Matcha Latte,Small,Saturday,12,7.13,0.21,1,Oat,0
+843,Cold Brew,Medium,Monday,9,6.58,1.6,1,Oat,1
+844,Latte,Medium,Monday,6,6.48,1.24,0,None,1
+845,Mocha,Large,Wednesday,7,6.87,1.53,0,Soy,1
+846,Chai Latte,Large,Thursday,6,6.16,1.06,0,Soy,1
+847,Cappuccino,Medium,Tuesday,20,5.19,0.83,1,Almond,0
+848,Flat White,Medium,Saturday,7,3.75,0.6,1,Oat,1
+849,Matcha Latte,Medium,Sunday,8,6.65,0.25,1,Almond,0
+850,Mocha,Medium,Sunday,12,7.12,0.98,0,Almond,1
+851,Cappuccino,Large,Friday,12,5.55,0.12,1,Oat,1
+852,Espresso,Large,Wednesday,19,5.63,0.57,0,Soy,1
+853,Cappuccino,Medium,Tuesday,7,5.11,0.17,0,None,1
+854,Mocha,Large,Wednesday,19,6.93,0.56,0,Almond,1
+855,Americano,Medium,Wednesday,8,3.56,0.28,0,Oat,0
+856,Espresso,Small,Wednesday,20,6.0,0.04,1,Almond,1
+857,Mocha,Large,Wednesday,12,7.13,0.56,1,Whole,1
+858,Espresso,Medium,Thursday,14,3.91,0.16,0,None,1
+859,Matcha Latte,Large,Sunday,9,7.34,0.14,0,Almond,0
+860,Cappuccino,Medium,Monday,13,7.37,0.39,0,Whole,1
+861,Cappuccino,Large,Sunday,14,7.22,0.36,0,Oat,0
+862,Espresso,Medium,Sunday,6,5.35,1.61,1,Soy,0
+863,Cappuccino,Large,Saturday,6,5.03,0.67,0,Whole,1
+864,Flat White,Medium,Wednesday,20,6.32,1.54,0,Whole,1
+865,Drip Coffee,Medium,Tuesday,11,4.77,0.13,0,Oat,1
+866,Matcha Latte,Large,Saturday,19,3.77,0.35,0,Skim,0
+867,Matcha Latte,Medium,Tuesday,15,7.11,0.65,0,Whole,1
+868,Cappuccino,Medium,Tuesday,10,6.04,0.13,1,Soy,1
+869,Cold Brew,Medium,Monday,8,4.33,0.11,1,Oat,1
+870,Espresso,Large,Monday,20,3.57,0.87,0,Whole,1
+871,Chai Latte,Large,Tuesday,13,6.39,0.85,0,Oat,1
+872,Matcha Latte,Medium,Thursday,8,6.91,0.21,0,Oat,1
+873,Drip Coffee,Large,Monday,14,5.12,0.21,0,None,1
+874,Latte,Medium,Monday,7,3.82,1.09,0,None,1
+875,Drip Coffee,Large,Thursday,18,6.09,0.1,1,Whole,1
+876,Espresso,Medium,Wednesday,7,4.69,2.05,1,Oat,0
+877,Americano,Medium,Monday,8,4.08,2.3,0,None,0
+878,Chai Latte,Small,Saturday,7,5.54,1.64,0,Oat,1
+879,Matcha Latte,Medium,Tuesday,7,5.43,0.19,0,Oat,1
+880,Cappuccino,Medium,Tuesday,12,5.57,0.01,0,Whole,0
+881,Drip Coffee,Large,Thursday,14,6.8,2.21,1,Soy,1
+882,Mocha,Large,Tuesday,16,5.44,0.34,0,Oat,1
+883,Chai Latte,Large,Sunday,14,7.1,0.3,0,Almond,1
+884,Drip Coffee,Small,Friday,10,6.87,0.24,1,Oat,1
+885,Matcha Latte,Medium,Tuesday,12,6.1,0.22,1,Whole,0
+886,Drip Coffee,Medium,Thursday,19,3.73,1.06,0,Whole,1
+887,Cold Brew,Small,Thursday,10,6.96,1.91,0,None,1
+888,Chai Latte,Medium,Thursday,8,7.12,1.23,0,Skim,0
+889,Chai Latte,Medium,Sunday,12,5.0,0.9,0,Almond,1
+890,Cappuccino,Small,Saturday,9,5.6,0.27,0,Whole,1
+891,Matcha Latte,Small,Friday,9,4.62,0.63,1,Oat,1
+892,Americano,Large,Sunday,16,3.56,0.22,1,Oat,1
+893,Drip Coffee,Medium,Monday,18,5.42,0.09,1,Oat,1
+894,Flat White,Large,Wednesday,12,4.02,0.1,0,None,1
+895,Drip Coffee,Medium,Tuesday,16,4.23,0.74,1,Whole,1
+896,Matcha Latte,Small,Saturday,8,5.42,0.03,1,Almond,1
+897,Flat White,Small,Monday,12,6.97,2.9,0,Oat,0
+898,Cold Brew,Medium,Thursday,13,6.88,4.32,0,Almond,1
+899,Espresso,Medium,Monday,12,7.36,0.13,0,Almond,1
+900,Matcha Latte,Large,Sunday,7,5.43,0.45,0,Oat,1
+901,Cold Brew,Medium,Monday,15,5.71,1.17,1,Whole,1
+902,Cappuccino,Medium,Friday,18,6.79,2.48,0,Oat,1
+903,Latte,Small,Thursday,13,6.3,1.78,1,None,0
+904,Cappuccino,Medium,Saturday,8,4.23,0.24,0,Oat,1
+905,Chai Latte,Medium,Saturday,7,5.09,0.07,1,Whole,1
+906,Latte,Medium,Thursday,9,7.22,0.27,1,Skim,1
+907,Drip Coffee,Medium,Tuesday,7,4.08,0.46,1,Whole,1
+908,Espresso,Medium,Saturday,18,4.34,0.36,0,Oat,1
+909,Latte,Medium,Saturday,14,5.1,1.19,1,Oat,0
+910,Latte,Large,Tuesday,12,7.26,0.24,0,Oat,1
+911,Cold Brew,Small,Tuesday,18,3.96,1.57,1,Oat,1
+912,Espresso,Medium,Sunday,7,6.19,0.2,0,Soy,1
+913,Drip Coffee,Medium,Saturday,15,4.03,0.36,1,Whole,1
+914,Matcha Latte,Medium,Saturday,8,5.6,0.48,1,Oat,1
+915,Latte,Medium,Saturday,7,5.65,0.28,1,Whole,1
+916,Mocha,Small,Tuesday,8,3.67,1.16,1,Oat,0
+917,Cold Brew,Small,Saturday,19,7.32,0.42,0,Whole,1
+918,Latte,Large,Monday,11,6.73,1.74,0,Whole,0
+919,Drip Coffee,Medium,Monday,7,4.71,2.65,0,Oat,0
+920,Espresso,Small,Tuesday,13,4.02,1.57,0,Whole,0
+921,Mocha,Small,Tuesday,8,4.88,0.59,1,Oat,1
+922,Mocha,Large,Tuesday,6,7.08,0.57,1,Oat,0
+923,Cappuccino,Medium,Wednesday,15,4.03,0.19,1,Oat,0
+924,Matcha Latte,Large,Tuesday,8,4.9,0.72,0,Whole,1
+925,Chai Latte,Large,Sunday,19,5.48,2.44,0,Whole,1
+926,Cappuccino,Large,Wednesday,13,3.63,0.07,0,Almond,1
+927,Chai Latte,Medium,Tuesday,7,4.57,1.12,1,Soy,1
+928,Matcha Latte,Large,Thursday,8,5.88,1.63,0,Almond,1
+929,Cold Brew,Medium,Friday,13,4.8,3.46,1,None,1
+930,Mocha,Large,Saturday,10,6.98,0.33,0,None,0
+931,Espresso,Large,Saturday,12,7.25,0.35,0,Whole,1
+932,Cold Brew,Medium,Monday,17,5.27,0.21,1,Whole,1
+933,Drip Coffee,Medium,Thursday,16,5.63,1.24,1,Skim,0
+934,Drip Coffee,Medium,Friday,14,6.02,0.12,1,Whole,1
+935,Flat White,Medium,Saturday,18,6.16,0.25,0,Almond,1
+936,Espresso,Medium,Saturday,8,3.75,0.28,0,None,1
+937,Drip Coffee,Large,Wednesday,8,3.71,0.38,0,Almond,1
+938,Chai Latte,Medium,Monday,17,6.96,0.44,1,Whole,0
+939,Flat White,Small,Wednesday,9,4.38,0.66,0,Soy,1
+940,Americano,Medium,Sunday,12,5.84,2.37,1,Oat,1
+941,Americano,Large,Sunday,15,6.0,0.23,1,None,0
+942,Drip Coffee,Large,Wednesday,10,4.16,1.21,1,Whole,1
+943,Flat White,Medium,Monday,7,6.55,0.9,0,Oat,1
+944,Mocha,Small,Friday,14,6.96,0.1,0,Soy,0
+945,Cappuccino,Small,Monday,17,4.64,1.33,1,Whole,1
+946,Chai Latte,Small,Tuesday,6,7.01,0.08,1,Whole,0
+947,Mocha,Medium,Wednesday,12,3.82,1.07,1,Whole,1
+948,Latte,Large,Tuesday,11,6.7,1.01,0,Oat,0
+949,Drip Coffee,Medium,Monday,9,6.06,0.94,1,None,0
+950,Latte,Medium,Monday,8,5.83,0.26,0,Whole,0
+951,Espresso,Large,Saturday,8,4.42,0.68,0,Whole,1
+952,Cold Brew,Medium,Sunday,15,4.95,1.15,1,Almond,1
+953,Drip Coffee,Small,Friday,12,7.14,0.81,0,Whole,1
+954,Mocha,Medium,Wednesday,20,5.36,1.3,0,Oat,1
+955,Cappuccino,Small,Sunday,8,5.88,0.93,0,Oat,0
+956,Americano,Medium,Thursday,19,7.24,0.26,0,Oat,0
+957,Cold Brew,Large,Monday,12,5.37,0.13,0,Whole,1
+958,Americano,Large,Saturday,8,5.05,0.8,0,Whole,1
+959,Chai Latte,Small,Thursday,8,7.07,1.14,0,Soy,0
+960,Cappuccino,Medium,Wednesday,13,7.14,0.12,1,Whole,1
+961,Cold Brew,Medium,Tuesday,18,4.92,0.15,1,Skim,0
+962,Flat White,Medium,Wednesday,15,5.87,0.01,1,Soy,0
+963,Flat White,Medium,Sunday,14,7.35,0.61,0,Whole,0
+964,Mocha,Small,Friday,8,3.72,0.63,0,None,0
+965,Chai Latte,Medium,Thursday,7,3.66,0.55,1,Whole,1
+966,Flat White,Large,Saturday,6,5.57,0.3,0,Soy,0
+967,Americano,Large,Sunday,7,4.66,0.45,0,Oat,0
+968,Drip Coffee,Large,Thursday,16,5.83,1.16,0,Whole,1
+969,Chai Latte,Small,Tuesday,19,6.4,0.16,0,None,1
+970,Mocha,Medium,Sunday,8,3.78,0.18,1,None,1
+971,Espresso,Medium,Saturday,16,7.03,0.88,1,Oat,1
+972,Chai Latte,Large,Tuesday,8,4.61,1.61,1,Oat,1
+973,Flat White,Large,Monday,8,5.03,0.33,1,None,1
+974,Mocha,Large,Sunday,8,4.85,2.16,1,Almond,1
+975,Mocha,Large,Wednesday,7,6.86,0.05,0,Whole,1
+976,Americano,Medium,Sunday,8,4.18,0.1,0,Oat,1
+977,Americano,Large,Sunday,10,3.61,0.49,1,Skim,1
+978,Cappuccino,Large,Friday,11,7.39,1.03,0,Skim,1
+979,Matcha Latte,Medium,Monday,9,7.42,0.37,1,None,0
+980,Matcha Latte,Large,Wednesday,12,4.53,0.65,0,Whole,1
+981,Latte,Large,Tuesday,10,3.54,0.02,1,Almond,1
+982,Cold Brew,Medium,Friday,20,6.08,0.5,1,Whole,1
+983,Chai Latte,Small,Tuesday,17,6.09,0.22,0,Soy,0
+984,Chai Latte,Small,Saturday,19,7.26,0.58,1,Almond,0
+985,Flat White,Small,Tuesday,12,4.69,0.6,1,Whole,0
+986,Americano,Medium,Thursday,14,4.26,1.12,1,Almond,0
+987,Americano,Medium,Wednesday,8,5.97,0.62,1,Whole,1
+988,Drip Coffee,Medium,Monday,15,5.75,0.76,0,Oat,0
+989,Flat White,Medium,Sunday,8,6.37,0.6,1,Oat,1
+990,Cappuccino,Large,Thursday,8,7.04,3.71,0,Soy,1
+991,Cappuccino,Medium,Saturday,7,5.74,1.25,1,Oat,0
+992,Cold Brew,Large,Wednesday,12,4.1,1.13,1,Whole,1
+993,Mocha,Small,Saturday,9,5.89,0.79,0,Whole,0
+994,Matcha Latte,Medium,Wednesday,20,5.0,0.6,1,Almond,1
+995,Espresso,Medium,Wednesday,8,5.31,0.34,1,Whole,1
+996,Flat White,Large,Friday,18,7.34,1.23,1,Soy,0
+997,Matcha Latte,Medium,Thursday,9,5.72,0.17,1,None,0
+998,Cold Brew,Small,Monday,15,4.1,0.03,1,Oat,0
+999,Drip Coffee,Medium,Thursday,14,5.27,0.96,0,Soy,1
+1000,Latte,Medium,Saturday,12,4.41,0.13,1,Oat,1

@@ -1,0 +1,351 @@
+player_id,confederation,position,age,caps,goals,assists,minutes_played,yellow_cards,red_cards,market_value_millions_eur,club_league
+1,UEFA,Forward,35,41,4,3,5109,3,1,5.73,La Liga
+2,CONMEBOL,Midfielder,27,49,4,4,5652,3,0,19.35,Other
+3,CONCACAF,Forward,35,8,4,4,7032,3,0,3.97,Ligue 1
+4,CONMEBOL,Midfielder,22,5,6,4,7514,3,0,1.52,Bundesliga
+5,UEFA,Defender,29,17,6,5,3820,2,0,5.73,Bundesliga
+6,UEFA,Defender,20,35,7,2,5235,1,1,306.45,MLS
+7,AFC,Defender,38,302,5,2,5260,2,0,185.43,Ligue 1
+8,UEFA,Midfielder,34,2,3,0,7155,4,0,3.37,Ligue 1
+9,UEFA,Defender,37,11,4,4,7261,2,0,4.08,MLS
+10,CONMEBOL,Forward,37,22,3,1,5805,4,0,10.86,Other
+11,CONMEBOL,Midfielder,21,11,3,4,7866,4,0,4.83,Serie A
+12,UEFA,Midfielder,20,268,4,5,5454,4,1,99.17,Serie A
+13,CONMEBOL,Forward,37,33,3,2,7569,2,0,7.47,MLS
+14,AFC,Forward,24,16,3,5,1322,3,0,4.93,Ligue 1
+15,UEFA,Midfielder,31,5,3,7,5174,1,0,1.31,Serie A
+16,CONMEBOL,Forward,36,10,3,5,1226,1,0,129.15,Premier League
+17,UEFA,Midfielder,27,41,4,3,6245,4,0,6.99,MLS
+18,UEFA,Forward,26,11,7,5,582,3,0,13.22,Ligue 1
+19,CONMEBOL,Midfielder,30,40,4,1,4200,0,0,22.45,MLS
+20,OFC,Forward,25,34,0,0,6113,1,0,8.35,Bundesliga
+21,CONCACAF,Defender,22,28,4,5,2719,1,0,4.39,Bundesliga
+22,CAF,Forward,36,35,5,6,7372,1,0,6.23,Ligue 1
+23,UEFA,Defender,19,43,5,4,2703,2,0,22.01,Bundesliga
+24,CAF,Midfielder,21,18,6,4,4825,0,0,25.89,La Liga
+25,CONMEBOL,Defender,31,15,5,7,6007,0,0,0.17,Premier League
+26,UEFA,Forward,19,17,4,3,5498,3,0,8.34,La Liga
+27,AFC,Defender,28,4,4,4,6823,1,0,14.43,Ligue 1
+28,CONCACAF,Midfielder,26,69,4,5,1704,2,0,43.9,Bundesliga
+29,UEFA,Defender,35,4,8,5,2229,0,0,32.96,Other
+30,CONMEBOL,Midfielder,21,3,3,3,5665,2,0,22.77,MLS
+31,CONCACAF,Defender,24,118,4,6,340,0,0,19.11,Serie A
+32,UEFA,Midfielder,20,55,6,2,5009,1,0,104.48,La Liga
+33,CONMEBOL,Defender,34,17,8,2,7699,1,1,256.81,La Liga
+34,CONMEBOL,Defender,23,90,4,2,1355,2,0,3.47,Bundesliga
+35,CONMEBOL,Midfielder,18,12,6,3,5460,3,0,27.51,Serie A
+36,UEFA,Midfielder,28,59,8,5,7271,2,0,1.05,Ligue 1
+37,CONMEBOL,Midfielder,19,14,7,8,7391,2,0,39.06,Bundesliga
+38,OFC,Forward,23,34,5,4,7657,4,0,4.11,Premier League
+39,AFC,Defender,35,21,8,5,1416,0,0,72.63,Premier League
+40,CAF,Midfielder,32,4,6,3,942,3,0,5.73,Ligue 1
+41,UEFA,Midfielder,28,10,3,4,3772,2,0,2.95,Ligue 1
+42,CONMEBOL,Midfielder,30,13,7,2,3194,1,0,2.51,Premier League
+43,CONCACAF,Forward,22,26,3,3,1162,1,0,28.51,Other
+44,AFC,Midfielder,37,20,5,4,6910,3,0,8.47,MLS
+45,UEFA,Forward,25,3,2,5,5236,2,0,14.8,MLS
+46,UEFA,Forward,32,8,5,4,1162,1,0,2.03,Serie A
+47,UEFA,Goalkeeper,35,71,4,2,6373,2,0,9.91,Ligue 1
+48,CONCACAF,Forward,28,14,4,3,7451,3,0,18.68,Premier League
+49,UEFA,Forward,19,5,2,3,3536,3,0,254.07,Serie A
+50,UEFA,Midfielder,29,55,5,2,7648,3,0,0.95,MLS
+51,CONCACAF,Forward,37,16,4,6,112,2,0,9.73,Serie A
+52,UEFA,Defender,34,49,9,2,3553,2,0,2.31,Ligue 1
+53,OFC,Forward,36,10,6,2,1943,3,0,8.31,La Liga
+54,CONCACAF,Midfielder,26,8,6,6,6036,1,0,14.2,Serie A
+55,CONCACAF,Midfielder,31,8,4,4,7018,2,0,49.52,Ligue 1
+56,CONCACAF,Midfielder,20,22,10,2,4713,2,0,5.14,Serie A
+57,UEFA,Midfielder,37,153,3,4,6178,1,0,26.82,Other
+58,UEFA,Defender,30,13,5,2,7588,2,0,54.42,Other
+59,CONMEBOL,Goalkeeper,32,24,4,3,5386,2,0,1.65,Bundesliga
+60,CAF,Forward,36,157,8,5,3575,3,1,0.56,Other
+61,UEFA,Forward,38,21,10,4,4383,2,0,0.98,Serie A
+62,AFC,Midfielder,21,6,5,3,614,1,0,1.63,La Liga
+63,OFC,Midfielder,25,18,4,3,921,0,0,6.47,MLS
+64,CONMEBOL,Goalkeeper,35,25,6,2,4497,1,0,14.45,Serie A
+65,CONMEBOL,Midfielder,31,7,9,1,5625,2,0,1.07,La Liga
+66,AFC,Defender,18,12,3,5,1739,1,0,63.96,Premier League
+67,UEFA,Defender,25,9,3,3,3817,2,0,98.89,Other
+68,UEFA,Midfielder,25,160,5,6,7699,1,0,4.76,La Liga
+69,CONMEBOL,Defender,36,5,5,5,7397,2,0,0.95,Serie A
+70,AFC,Forward,18,10,3,7,5665,3,0,28.9,Other
+71,UEFA,Forward,21,4,3,1,1114,1,0,8.99,Premier League
+72,CONCACAF,Midfielder,20,9,7,2,3444,3,0,2.01,MLS
+73,UEFA,Defender,35,15,1,2,6069,3,0,99.18,MLS
+74,CONMEBOL,Forward,23,37,3,5,2657,1,0,2.5,Other
+75,UEFA,Midfielder,36,44,6,1,3392,4,0,33.6,Premier League
+76,CONCACAF,Defender,29,12,4,3,846,2,0,3.91,Premier League
+77,UEFA,Forward,35,29,4,4,5005,4,0,27.75,Premier League
+78,CONMEBOL,Goalkeeper,21,2,4,2,6905,2,0,2.73,Serie A
+79,UEFA,Midfielder,25,24,1,2,2858,2,0,28.23,Ligue 1
+80,AFC,Midfielder,36,11,6,5,666,4,0,2.73,La Liga
+81,CONCACAF,Defender,34,16,4,5,3266,2,0,80.69,Ligue 1
+82,CONCACAF,Goalkeeper,38,59,2,7,4218,1,0,10.9,Ligue 1
+83,CONCACAF,Goalkeeper,38,15,7,5,1023,3,0,0.91,La Liga
+84,CONCACAF,Forward,33,39,6,5,7499,5,0,5.12,Bundesliga
+85,CONMEBOL,Midfielder,23,2,6,3,501,1,0,6.01,La Liga
+86,UEFA,Defender,18,23,5,2,4730,1,0,0.83,Bundesliga
+87,UEFA,Midfielder,35,107,4,3,830,1,0,36.52,La Liga
+88,AFC,Goalkeeper,28,13,5,3,4274,1,1,20.88,MLS
+89,UEFA,Defender,18,6,8,5,5857,0,0,0.69,Ligue 1
+90,CONMEBOL,Forward,36,42,6,2,732,4,1,16.69,Ligue 1
+91,CONCACAF,Goalkeeper,20,40,6,7,7789,2,0,1.38,MLS
+92,CONMEBOL,Midfielder,37,33,4,1,7600,5,0,4.97,La Liga
+93,CONCACAF,Defender,32,2,4,9,1864,2,0,2.92,Premier League
+94,AFC,Goalkeeper,23,10,5,0,1294,6,0,4.38,Bundesliga
+95,UEFA,Forward,19,9,3,3,3456,1,0,2.74,Premier League
+96,UEFA,Midfielder,34,16,6,4,2596,0,0,38.15,Other
+97,UEFA,Forward,31,6,7,9,7014,3,0,23.04,Bundesliga
+98,AFC,Forward,34,37,4,8,4617,0,0,14.2,MLS
+99,UEFA,Defender,20,28,6,4,6946,0,0,2.88,Ligue 1
+100,CONMEBOL,Defender,28,157,3,3,6577,2,0,15.33,Bundesliga
+101,CAF,Forward,37,36,4,6,4769,2,0,7.39,Ligue 1
+102,UEFA,Defender,19,8,7,6,4840,0,0,7.16,La Liga
+103,UEFA,Midfielder,22,10,2,4,4810,1,0,14.76,MLS
+104,UEFA,Forward,38,65,5,2,687,2,0,10.57,La Liga
+105,UEFA,Defender,26,2,7,4,1973,2,0,57.16,Serie A
+106,CAF,Midfielder,18,6,1,2,3693,3,0,22.96,Other
+107,AFC,Forward,32,33,4,5,2627,2,0,47.67,Serie A
+108,CONMEBOL,Midfielder,24,41,7,5,3913,3,0,3.23,Other
+109,UEFA,Midfielder,36,18,6,4,2287,4,0,109.9,La Liga
+110,UEFA,Defender,27,14,4,5,649,3,1,5.46,Serie A
+111,UEFA,Midfielder,36,12,7,4,5222,2,1,47.28,MLS
+112,CONCACAF,Defender,21,9,4,3,5534,3,0,21.5,La Liga
+113,CONMEBOL,Defender,32,16,3,4,2673,2,0,13.38,Premier League
+114,CONCACAF,Midfielder,19,125,5,3,627,2,0,9.05,Ligue 1
+115,UEFA,Defender,32,1,6,4,7037,1,0,187.24,La Liga
+116,CONCACAF,Midfielder,28,7,5,5,2416,0,0,117.13,Serie A
+117,UEFA,Forward,35,111,3,6,5898,1,0,10.75,Other
+118,UEFA,Midfielder,23,52,4,3,5635,2,0,10.69,MLS
+119,CAF,Forward,31,5,5,4,6870,2,0,2.45,Other
+120,AFC,Midfielder,26,16,6,6,3817,0,0,1.74,Serie A
+121,CONCACAF,Forward,24,44,1,5,3176,2,0,4.5,Other
+122,CAF,Defender,18,56,4,5,2506,0,0,7.33,Other
+123,AFC,Defender,26,7,7,3,5252,2,0,27.54,Serie A
+124,UEFA,Midfielder,38,9,7,5,7573,2,0,157.91,Premier League
+125,CAF,Forward,19,7,9,4,4006,0,0,0.33,MLS
+126,CONMEBOL,Midfielder,23,15,2,4,424,1,0,1.22,Premier League
+127,OFC,Defender,34,31,5,3,4490,0,0,15.22,Other
+128,CONCACAF,Midfielder,18,70,6,1,7865,0,0,0.8,Other
+129,UEFA,Midfielder,34,5,4,4,6922,1,0,49.04,MLS
+130,CONMEBOL,Midfielder,32,55,6,7,1071,1,0,30.75,Premier League
+131,CONCACAF,Midfielder,29,24,6,9,3193,2,0,22.79,La Liga
+132,AFC,Midfielder,22,15,3,1,3015,5,0,0.98,Ligue 1
+133,CONCACAF,Defender,23,228,4,5,3832,3,0,1.62,Premier League
+134,AFC,Defender,21,109,6,6,5940,1,1,40.17,Other
+135,CONMEBOL,Midfielder,22,3,3,3,2360,2,0,0.43,Serie A
+136,UEFA,Goalkeeper,35,112,4,4,3495,4,0,12.41,Serie A
+137,AFC,Midfielder,27,20,4,5,6881,4,0,2.7,Premier League
+138,AFC,Midfielder,34,5,5,6,2299,3,0,1.21,MLS
+139,UEFA,Defender,19,70,6,5,6448,1,0,5.52,Ligue 1
+140,CONMEBOL,Defender,27,73,3,5,5053,4,0,447.59,Ligue 1
+141,UEFA,Defender,35,21,9,7,3900,0,1,12.42,MLS
+142,UEFA,Defender,34,31,4,8,2099,1,0,22.26,Ligue 1
+143,AFC,Defender,38,22,2,5,3739,4,0,4.84,MLS
+144,CONMEBOL,Forward,33,18,4,4,4338,1,0,35.15,Serie A
+145,UEFA,Midfielder,19,103,2,5,4172,0,0,49.73,La Liga
+146,UEFA,Midfielder,20,15,4,5,6134,3,0,7.42,Other
+147,AFC,Defender,23,77,7,5,2345,2,0,2.7,Bundesliga
+148,CONMEBOL,Midfielder,23,35,6,2,4429,2,1,14.15,Premier League
+149,UEFA,Forward,20,5,7,2,5282,1,0,28.64,Premier League
+150,UEFA,Midfielder,31,17,5,5,353,1,0,16.26,Bundesliga
+151,OFC,Midfielder,33,19,4,3,3080,4,0,4.12,Bundesliga
+152,CONMEBOL,Midfielder,27,11,8,6,2310,4,0,21.49,Serie A
+153,CONCACAF,Forward,20,12,4,3,5432,3,0,5.28,Serie A
+154,CONCACAF,Midfielder,24,38,5,3,35,2,0,69.0,Premier League
+155,UEFA,Midfielder,31,47,7,4,6178,5,0,8.13,Other
+156,CONMEBOL,Midfielder,32,37,1,9,1805,1,0,0.75,MLS
+157,AFC,Midfielder,18,23,10,4,7549,3,0,25.19,Other
+158,CONMEBOL,Goalkeeper,22,13,6,1,4681,1,0,11.56,La Liga
+159,CONCACAF,Midfielder,23,13,6,7,7666,2,0,5.25,MLS
+160,CONMEBOL,Midfielder,37,25,7,8,754,4,0,7.03,Premier League
+161,UEFA,Midfielder,18,40,4,5,80,1,0,1.09,Premier League
+162,UEFA,Midfielder,28,102,4,5,329,2,0,1.9,Premier League
+163,CONMEBOL,Forward,21,29,7,2,6303,3,0,2.97,Serie A
+164,CONMEBOL,Forward,21,39,4,3,3479,4,0,22.04,Premier League
+165,CONMEBOL,Defender,38,4,5,9,806,0,0,18.39,Other
+166,UEFA,Forward,24,3,2,4,7763,3,0,1.09,La Liga
+167,CONMEBOL,Defender,26,10,5,4,7201,5,0,5.45,Other
+168,UEFA,Defender,37,34,5,4,3326,0,0,9.41,La Liga
+169,CONMEBOL,Defender,34,11,5,0,2470,3,0,26.62,La Liga
+170,UEFA,Midfielder,31,2,2,3,4519,0,0,0.17,Premier League
+171,UEFA,Midfielder,36,16,7,10,2190,2,0,0.89,Bundesliga
+172,UEFA,Forward,24,109,3,5,6320,1,0,2.71,Premier League
+173,UEFA,Midfielder,32,65,4,3,7227,2,1,0.19,Other
+174,UEFA,Forward,19,4,4,7,4749,0,0,51.24,Bundesliga
+175,CONCACAF,Forward,29,19,9,7,7143,0,0,11.03,Premier League
+176,UEFA,Defender,33,13,9,5,2446,1,0,21.38,La Liga
+177,CONMEBOL,Goalkeeper,28,15,3,5,4094,2,0,2.96,Other
+178,AFC,Defender,28,31,4,6,7691,1,0,11.19,Bundesliga
+179,UEFA,Forward,20,15,6,3,5372,0,0,10.92,Other
+180,CONCACAF,Forward,24,79,7,3,3473,2,0,4.22,La Liga
+181,CAF,Midfielder,34,4,7,2,7950,3,0,35.7,Premier League
+182,AFC,Goalkeeper,19,41,8,2,389,2,0,15.0,Other
+183,AFC,Defender,19,54,4,4,7415,3,0,10.15,Serie A
+184,CONMEBOL,Forward,37,15,5,7,5820,2,0,5.06,Bundesliga
+185,UEFA,Defender,28,25,2,6,1287,1,0,2.55,Other
+186,CONMEBOL,Midfielder,30,201,0,5,7544,1,0,7.9,Premier League
+187,UEFA,Midfielder,38,20,5,4,3693,1,0,14.23,Other
+188,CONMEBOL,Defender,35,44,4,5,5937,0,0,6.66,La Liga
+189,CONMEBOL,Midfielder,20,53,3,4,3985,1,0,65.65,Ligue 1
+190,AFC,Midfielder,21,6,6,0,7145,2,0,4.2,MLS
+191,CONMEBOL,Goalkeeper,26,246,5,2,3294,1,0,22.04,Serie A
+192,UEFA,Forward,27,15,4,4,3172,1,0,1.21,Ligue 1
+193,CONMEBOL,Midfielder,38,16,2,1,5954,1,0,3.0,Other
+194,AFC,Defender,36,38,0,6,3735,0,0,0.88,MLS
+195,UEFA,Midfielder,33,23,2,3,7006,2,0,3.41,Other
+196,CONMEBOL,Goalkeeper,24,14,6,1,1498,1,0,50.29,Ligue 1
+197,CONMEBOL,Forward,28,38,3,7,3031,2,0,1.47,Serie A
+198,CAF,Forward,28,5,2,4,5799,2,0,68.94,La Liga
+199,AFC,Midfielder,34,91,4,3,4986,2,0,4.12,Ligue 1
+200,UEFA,Defender,36,28,5,7,5783,2,0,1.34,Ligue 1
+201,AFC,Forward,21,36,5,3,7863,2,0,6.69,Premier League
+202,CONMEBOL,Defender,23,14,4,1,2036,1,0,6.03,Serie A
+203,CONMEBOL,Defender,36,11,8,8,7468,0,0,8.27,MLS
+204,CONMEBOL,Forward,28,5,2,3,3979,2,0,0.92,Other
+205,UEFA,Midfielder,26,42,5,3,2214,2,0,6.5,Bundesliga
+206,OFC,Defender,31,4,5,3,1242,1,0,0.76,Ligue 1
+207,UEFA,Midfielder,30,24,2,6,3484,0,0,3.72,Premier League
+208,UEFA,Midfielder,18,12,5,6,6523,2,0,2.44,Serie A
+209,UEFA,Midfielder,38,25,6,2,1024,2,0,2.03,MLS
+210,UEFA,Defender,28,8,4,8,4224,2,0,22.77,MLS
+211,CONMEBOL,Defender,33,69,4,12,5751,1,0,57.76,Bundesliga
+212,AFC,Midfielder,30,7,2,5,4772,1,0,11.48,Bundesliga
+213,AFC,Midfielder,34,1,7,5,651,1,0,1.62,Ligue 1
+214,CONMEBOL,Defender,27,14,5,6,6723,2,0,5.78,La Liga
+215,AFC,Forward,31,8,3,2,2630,1,0,43.68,Serie A
+216,UEFA,Defender,19,15,6,2,1260,5,0,20.0,Premier League
+217,UEFA,Defender,33,8,6,5,3759,3,0,240.63,Serie A
+218,CONCACAF,Midfielder,37,25,4,5,5159,3,0,0.97,Premier League
+219,CONMEBOL,Defender,34,5,0,4,5774,1,1,1.72,Ligue 1
+220,CONMEBOL,Midfielder,37,20,5,5,4761,5,0,24.76,Serie A
+221,UEFA,Goalkeeper,29,14,5,5,6838,2,0,10.39,Ligue 1
+222,AFC,Midfielder,33,7,5,5,408,2,0,1.62,La Liga
+223,CONMEBOL,Midfielder,38,6,6,6,5982,3,0,2.51,Premier League
+224,UEFA,Defender,38,77,4,6,3753,1,0,9.8,La Liga
+225,UEFA,Forward,35,5,2,3,2584,0,0,11.19,Premier League
+226,OFC,Defender,27,9,3,7,3608,3,1,15.77,MLS
+227,AFC,Defender,31,63,7,4,1944,1,1,108.34,La Liga
+228,CONMEBOL,Midfielder,23,22,6,1,784,1,0,126.92,Serie A
+229,CONCACAF,Forward,34,25,5,2,4426,1,0,1.59,MLS
+230,UEFA,Midfielder,29,8,5,5,3860,2,0,18.19,Premier League
+231,AFC,Midfielder,27,16,5,7,5049,2,0,3.31,Other
+232,CAF,Goalkeeper,18,157,4,1,7951,2,0,70.12,Ligue 1
+233,CAF,Goalkeeper,21,59,8,2,5998,2,0,3.53,Premier League
+234,AFC,Goalkeeper,38,7,5,1,5344,2,0,1.23,Other
+235,CONCACAF,Goalkeeper,20,14,5,3,6117,3,0,36.36,Bundesliga
+236,UEFA,Defender,26,1,5,4,6534,1,0,54.48,Other
+237,UEFA,Midfielder,20,40,1,1,2378,3,0,2.21,Premier League
+238,AFC,Forward,31,6,3,5,4484,1,0,34.57,Premier League
+239,AFC,Midfielder,26,31,4,2,4705,3,0,1.57,MLS
+240,OFC,Goalkeeper,36,19,7,3,7758,3,0,2.73,Bundesliga
+241,UEFA,Midfielder,31,13,6,8,2456,3,0,0.43,La Liga
+242,UEFA,Midfielder,35,15,4,5,7815,1,0,29.22,Other
+243,CAF,Defender,33,15,4,5,4480,3,0,12.89,La Liga
+244,UEFA,Defender,19,6,5,1,5053,4,0,3.77,Premier League
+245,UEFA,Goalkeeper,38,46,5,3,2039,2,0,4.48,La Liga
+246,OFC,Midfielder,38,21,6,5,3232,2,0,9.7,Bundesliga
+247,CONMEBOL,Forward,18,69,5,7,1997,3,0,9.27,Ligue 1
+248,UEFA,Defender,26,4,5,8,3758,2,0,14.73,La Liga
+249,CAF,Defender,38,52,7,8,4923,2,0,1.5,Premier League
+250,UEFA,Defender,27,11,4,2,3114,2,1,19.02,Other
+251,UEFA,Defender,20,12,4,8,644,1,0,8.08,Ligue 1
+252,CONCACAF,Forward,27,56,7,1,857,1,0,0.78,Ligue 1
+253,AFC,Midfielder,30,61,4,5,7014,0,0,129.51,Other
+254,UEFA,Forward,25,91,6,4,6165,0,0,1.69,Ligue 1
+255,CONCACAF,Defender,18,19,6,5,3774,2,0,1.7,Other
+256,CONMEBOL,Forward,30,15,4,0,1793,4,0,2.12,Premier League
+257,UEFA,Midfielder,24,78,11,7,7522,1,0,2.68,Ligue 1
+258,CONCACAF,Defender,32,39,4,4,5221,3,0,1.98,Bundesliga
+259,UEFA,Forward,28,25,5,4,2562,3,0,3.65,Ligue 1
+260,UEFA,Forward,31,2,4,3,5120,2,0,19.68,Other
+261,UEFA,Defender,23,14,8,3,2017,1,0,9.35,MLS
+262,CONMEBOL,Forward,18,12,3,3,3816,1,0,1.72,MLS
+263,CONCACAF,Midfielder,19,15,2,5,1162,5,0,18.03,Other
+264,OFC,Midfielder,23,9,2,3,765,5,0,45.91,Other
+265,UEFA,Defender,35,13,2,2,3810,2,1,4.56,Bundesliga
+266,CONCACAF,Midfielder,37,87,7,5,3186,4,0,5.95,Premier League
+267,UEFA,Forward,35,51,6,6,3012,1,0,4.07,Other
+268,CAF,Midfielder,32,31,10,4,860,2,1,1.85,Other
+269,AFC,Forward,29,28,4,1,7184,2,0,0.28,Premier League
+270,AFC,Midfielder,28,7,8,0,5866,2,1,4.62,MLS
+271,CONMEBOL,Forward,26,34,7,7,7040,1,0,578.61,Premier League
+272,CONCACAF,Defender,32,35,4,3,2976,1,0,4.79,Ligue 1
+273,CONMEBOL,Goalkeeper,27,20,2,4,6829,1,0,1.27,La Liga
+274,UEFA,Midfielder,24,5,6,2,413,2,0,18.96,La Liga
+275,UEFA,Forward,36,84,4,2,4940,2,0,5.54,Ligue 1
+276,UEFA,Goalkeeper,37,17,4,4,3635,1,0,18.16,Serie A
+277,UEFA,Midfielder,21,30,6,3,1132,3,0,13.42,Serie A
+278,UEFA,Defender,18,45,4,2,648,2,0,5.05,Bundesliga
+279,CONMEBOL,Forward,31,4,6,2,7924,1,0,8.85,La Liga
+280,CONMEBOL,Forward,26,92,4,5,199,2,0,72.25,Ligue 1
+281,CONCACAF,Defender,35,5,5,2,5450,0,0,5.97,Other
+282,AFC,Midfielder,20,17,5,1,3458,5,1,66.15,Premier League
+283,CAF,Forward,24,86,4,4,431,2,0,16.04,La Liga
+284,CAF,Midfielder,18,5,3,4,7961,1,0,29.05,Ligue 1
+285,CAF,Forward,32,14,5,4,851,1,0,21.33,MLS
+286,AFC,Midfielder,20,45,3,3,1332,2,0,4.97,MLS
+287,CONCACAF,Forward,21,70,5,3,6539,3,1,53.71,Serie A
+288,UEFA,Goalkeeper,22,5,4,2,3137,0,1,14.75,MLS
+289,CONCACAF,Midfielder,35,6,1,4,5312,1,0,3.41,MLS
+290,UEFA,Forward,23,16,9,2,5468,2,0,1.05,Serie A
+291,AFC,Midfielder,19,37,5,0,7702,0,0,23.66,Serie A
+292,UEFA,Defender,27,17,3,2,1775,0,0,0.71,MLS
+293,CONCACAF,Midfielder,29,20,7,2,2309,1,0,2.13,Bundesliga
+294,UEFA,Midfielder,19,16,5,2,682,2,0,1.15,Other
+295,UEFA,Midfielder,38,23,3,2,4833,1,0,26.84,Ligue 1
+296,CONMEBOL,Defender,22,28,6,6,5480,1,0,14.89,Ligue 1
+297,UEFA,Midfielder,28,35,4,1,5842,5,0,11.52,MLS
+298,UEFA,Defender,34,99,4,3,2783,6,0,10.68,Other
+299,CONMEBOL,Defender,30,28,5,6,2258,0,0,9.38,Premier League
+300,AFC,Defender,25,38,4,5,7738,3,0,88.23,Other
+301,CAF,Forward,18,43,2,6,7532,3,0,0.98,Ligue 1
+302,UEFA,Forward,30,44,1,3,2684,2,0,50.45,Premier League
+303,UEFA,Midfielder,22,28,3,5,1373,1,0,6.38,MLS
+304,UEFA,Defender,24,104,2,3,3168,1,0,100.43,Other
+305,CONCACAF,Forward,18,2,6,4,1724,3,0,16.19,Serie A
+306,CONMEBOL,Forward,32,18,3,0,4777,1,0,31.24,La Liga
+307,CONMEBOL,Defender,32,27,2,1,5230,2,0,12.44,Other
+308,AFC,Midfielder,20,10,2,3,6502,0,0,1.69,Serie A
+309,CONCACAF,Midfielder,25,83,5,3,1216,3,0,8.22,Ligue 1
+310,CONCACAF,Forward,24,2,2,3,3327,0,0,8.31,Premier League
+311,CONCACAF,Midfielder,33,13,7,5,4375,3,0,18.95,Serie A
+312,UEFA,Midfielder,18,3,4,6,6394,2,0,20.42,Other
+313,UEFA,Midfielder,29,13,6,5,5233,1,0,36.81,Other
+314,UEFA,Midfielder,36,8,2,2,4898,3,0,18.09,Ligue 1
+315,AFC,Defender,35,27,6,4,1048,4,0,6.45,Ligue 1
+316,CAF,Forward,37,198,11,5,5757,1,0,1.97,Premier League
+317,AFC,Goalkeeper,30,76,8,1,270,0,0,23.3,MLS
+318,UEFA,Midfielder,20,5,4,3,4122,1,0,1.26,Bundesliga
+319,CAF,Defender,23,32,4,4,398,2,0,14.31,La Liga
+320,CONMEBOL,Midfielder,26,12,4,0,1531,3,0,35.34,Other
+321,AFC,Defender,26,48,9,3,6927,2,0,13.98,Bundesliga
+322,CONCACAF,Midfielder,30,43,4,7,3945,2,1,2.12,Serie A
+323,AFC,Forward,21,81,8,6,7485,2,0,5.89,Bundesliga
+324,UEFA,Midfielder,26,100,5,7,7549,2,0,7.92,Premier League
+325,CONMEBOL,Defender,32,56,4,4,6583,4,0,7.11,Other
+326,CONCACAF,Forward,32,17,3,1,5141,4,0,12.09,La Liga
+327,CONMEBOL,Defender,23,16,4,6,726,0,0,24.24,Bundesliga
+328,AFC,Defender,25,5,6,3,192,2,0,4.69,Bundesliga
+329,AFC,Midfielder,22,29,4,5,3984,2,0,19.78,La Liga
+330,CONMEBOL,Forward,33,31,6,5,2874,0,0,16.18,Serie A
+331,CONMEBOL,Forward,36,3,6,3,3338,3,0,29.69,Premier League
+332,CONMEBOL,Defender,23,62,5,6,5249,2,0,4.13,Other
+333,CONMEBOL,Defender,38,15,5,5,2396,3,0,10.27,La Liga
+334,UEFA,Midfielder,31,6,8,5,1209,5,1,3.93,Serie A
+335,UEFA,Midfielder,33,24,6,2,5957,2,0,5.98,La Liga
+336,UEFA,Defender,20,4,6,4,5899,6,1,3.68,Premier League
+337,UEFA,Forward,21,10,4,2,694,4,1,2.55,Premier League
+338,CONMEBOL,Midfielder,18,8,6,2,3697,1,0,67.49,Bundesliga
+339,CONCACAF,Midfielder,33,8,0,5,6786,3,0,15.32,Bundesliga
+340,CONCACAF,Goalkeeper,27,7,3,6,2412,3,0,1.69,Ligue 1
+341,CONMEBOL,Midfielder,31,15,5,2,1612,3,0,6.07,Ligue 1
+342,CONCACAF,Defender,20,46,6,6,5825,5,0,1.74,Bundesliga
+343,OFC,Midfielder,19,7,7,12,4187,1,0,8.41,Premier League
+344,OFC,Midfielder,24,10,3,3,3649,1,0,5.2,Serie A
+345,AFC,Defender,27,7,5,5,3840,2,0,9.23,MLS
+346,CAF,Forward,21,47,9,5,3564,1,1,0.45,Bundesliga
+347,UEFA,Forward,24,13,4,4,2895,1,0,0.63,Ligue 1
+348,UEFA,Defender,25,29,3,3,7488,0,0,6.07,Premier League
+349,OFC,Goalkeeper,33,13,7,2,7799,1,0,24.03,MLS
+350,UEFA,Defender,30,89,5,7,798,2,1,8.3,Other

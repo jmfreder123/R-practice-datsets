@@ -1,0 +1,76 @@
+ride_id,park,ride_type,max_speed_mph,height_ft,duration_seconds,capacity_per_hour,avg_wait_time_min,min_height_inches,year_opened,thrill_rating,guest_satisfaction
+1,Disneyland,Dark Ride,110.3,135.1,146,1420,11,52,2003,2,9.1
+2,Universal Hollywood,Simulator,90.1,224.9,143,1811,16,40,1975,1,8.2
+3,SeaWorld,Dark Ride,32.8,420.8,91,1820,27,36,2022,7,8.4
+4,Universal Hollywood,Simulator,35.2,22.8,156,2361,102,48,1989,3,9.2
+5,Universal Orlando,Drop Tower,20.4,350.4,63,1167,15,0,1955,3,8.5
+6,Cedar Point,Roller Coaster,102.2,170.4,147,790,23,40,1970,6,6.3
+7,Busch Gardens,Dark Ride,115.8,372.3,35,984,20,40,1985,9,8.6
+8,Disney World,Drop Tower,82.7,206.3,102,989,20,48,2013,4,9.4
+9,Universal Orlando,Simulator,110.3,333.4,123,245,10,36,1972,6,9.0
+10,Busch Gardens,Dark Ride,116.9,384.5,166,397,57,52,1991,9,9.4
+11,SeaWorld,Roller Coaster,27.3,222.4,103,1115,10,44,1964,5,6.6
+12,Disneyland,Dark Ride,55.6,337.9,67,1633,89,44,2003,6,8.8
+13,Disney World,Flat Ride,26.4,45.2,63,1670,75,44,1977,6,7.8
+14,Universal Orlando,Flat Ride,56.8,146.4,84,429,25,48,1973,7,6.1
+15,Disneyland,Flat Ride,65.4,157.2,193,325,20,36,1996,5,9.1
+16,Disneyland,Flat Ride,93.8,224.7,77,1023,11,40,1961,4,7.1
+17,Universal Hollywood,Spinning,89.0,300.3,202,931,21,52,1992,8,8.1
+18,Cedar Point,Water Ride,126.7,222.3,209,1594,48,36,1995,8,5.7
+19,Cedar Point,Simulator,36.7,386.8,35,1727,12,44,2016,4,8.0
+20,Disney World,Dark Ride,28.3,128.9,45,506,65,52,1997,10,8.5
+21,Disneyland,Dark Ride,95.9,74.5,200,353,46,42,1965,10,7.3
+22,Universal Orlando,Dark Ride,92.9,178.5,254,570,18,36,2002,5,7.9
+23,Disney World,Dark Ride,26.0,121.9,222,1061,38,42,1956,4,8.5
+24,Disneyland,Drop Tower,106.5,276.7,211,349,10,54,1978,1,9.0
+25,Universal Hollywood,Water Ride,50.5,266.5,243,762,18,44,1981,2,8.2
+26,Six Flags,Simulator,65.6,339.9,207,316,118,36,1969,9,9.2
+27,Six Flags,Dark Ride,91.0,361.6,154,1749,52,36,1956,10,8.6
+28,Cedar Point,Drop Tower,81.7,77.6,127,659,30,42,1964,1,4.7
+29,SeaWorld,Spinning,88.8,166.9,191,200,21,0,2005,6,8.8
+30,Six Flags,Water Ride,23.5,49.7,66,1074,19,52,2015,2,8.7
+31,Disneyland,Drop Tower,44.0,314.8,277,1394,20,42,1972,3,7.8
+32,Disneyland,Flat Ride,105.8,368.4,152,222,11,44,2021,10,9.4
+33,Universal Orlando,Flat Ride,119.8,439.0,175,349,34,42,1974,7,8.8
+34,Six Flags,Drop Tower,58.8,437.0,139,2129,46,48,1989,10,7.8
+35,Six Flags,Dark Ride,123.5,293.6,162,2370,16,0,2021,8,8.4
+36,Disney World,Water Ride,119.9,341.0,212,1668,29,44,1969,8,8.8
+37,Disney World,Roller Coaster,110.4,107.0,223,1056,11,48,1972,8,8.7
+38,Disneyland,Drop Tower,98.6,272.1,289,922,19,52,2014,4,8.0
+39,Cedar Point,Simulator,72.6,160.9,56,446,10,36,1964,7,8.6
+40,Busch Gardens,Drop Tower,35.1,63.1,191,629,17,36,1997,8,9.5
+41,Disneyland,Drop Tower,40.0,231.3,146,1592,22,54,1996,3,8.1
+42,SeaWorld,Dark Ride,29.0,200.7,228,1019,33,0,1982,5,8.6
+43,Universal Hollywood,Drop Tower,110.1,45.5,69,1009,12,48,2011,1,7.2
+44,Cedar Point,Roller Coaster,10.8,435.9,84,1917,29,44,1967,5,8.3
+45,Six Flags,Flat Ride,41.5,436.8,198,223,9,54,1973,7,6.7
+46,Six Flags,Flat Ride,81.4,261.4,296,1280,26,44,1993,10,10.0
+47,SeaWorld,Simulator,126.3,431.5,230,589,118,36,2007,7,8.8
+48,Disneyland,Water Ride,45.2,128.9,260,275,15,54,2013,6,6.8
+49,Busch Gardens,Water Ride,34.8,364.1,70,359,7,42,1991,10,7.7
+50,Busch Gardens,Flat Ride,18.9,433.6,163,864,41,42,1965,2,7.4
+51,SeaWorld,Roller Coaster,43.5,189.3,93,263,25,52,1970,8,7.8
+52,Busch Gardens,Roller Coaster,107.6,148.4,43,935,29,52,1955,5,6.8
+53,SeaWorld,Dark Ride,25.5,321.3,261,715,56,44,1976,3,6.6
+54,Universal Orlando,Flat Ride,27.5,223.9,108,329,11,0,2012,9,6.4
+55,SeaWorld,Flat Ride,26.8,181.9,208,1630,12,54,2002,8,7.5
+56,SeaWorld,Water Ride,23.7,358.0,276,899,31,0,2001,7,5.2
+57,Disney World,Dark Ride,63.5,120.5,142,216,46,54,2008,5,6.7
+58,SeaWorld,Flat Ride,107.7,318.5,103,1821,24,52,1973,7,4.7
+59,Six Flags,Water Ride,64.2,185.9,279,450,19,54,2018,8,5.9
+60,Busch Gardens,Water Ride,74.2,130.2,76,815,26,48,2020,10,8.0
+61,Universal Orlando,Spinning,77.5,425.6,114,1054,36,54,1970,8,3.1
+62,Cedar Point,Water Ride,55.5,124.3,227,1685,6,36,1993,8,8.3
+63,Disney World,Water Ride,50.0,185.6,132,1672,9,52,1975,9,8.6
+64,SeaWorld,Simulator,84.7,288.9,287,1539,19,54,1999,6,9.6
+65,Cedar Point,Roller Coaster,51.3,41.9,248,2101,35,40,2019,7,5.4
+66,Universal Hollywood,Simulator,23.8,60.0,278,1216,114,48,1977,10,9.2
+67,SeaWorld,Drop Tower,111.8,292.4,105,495,18,54,1996,9,8.7
+68,Busch Gardens,Simulator,79.2,275.7,160,1429,24,0,1964,10,6.3
+69,Busch Gardens,Water Ride,107.8,280.8,182,504,12,52,1966,3,9.6
+70,Cedar Point,Roller Coaster,66.3,276.6,53,1023,34,48,1995,6,7.1
+71,Cedar Point,Spinning,85.9,383.1,92,1433,8,40,2010,10,5.2
+72,Disneyland,Drop Tower,118.5,160.7,190,362,20,42,1960,4,7.9
+73,Universal Orlando,Roller Coaster,98.4,92.4,296,1617,9,36,1991,2,7.5
+74,Disney World,Drop Tower,51.4,410.8,35,1010,4,42,1980,5,7.2
+75,Busch Gardens,Roller Coaster,48.7,261.7,145,219,173,54,2018,4,7.7
