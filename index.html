@@ -1,0 +1,361 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>~*~ R Practice Datasets ~*~</title>
+  <style>
+    body {
+      background-color: #009999;
+      color: #FFFF00;
+      font-family: "Comic Sans MS", "Comic Sans", cursive, sans-serif;
+      text-align: center;
+      margin: 0;
+      padding: 20px;
+    }
+
+    h1 {
+      font-size: 2.5em;
+      color: #FF00FF;
+      text-shadow: 2px 2px #000000;
+      margin-bottom: 0;
+    }
+
+    h2 {
+      font-size: 1.4em;
+      color: #FFFFFF;
+      text-shadow: 1px 1px #000000;
+    }
+
+    hr {
+      border: none;
+      border-top: 3px dashed #FF00FF;
+      width: 80%;
+      margin: 20px auto;
+    }
+
+    .description {
+      background-color: #000080;
+      border: 3px solid #FFFF00;
+      padding: 15px 25px;
+      margin: 20px auto;
+      max-width: 700px;
+      text-align: left;
+      font-size: 1.05em;
+      line-height: 1.6;
+      color: #00FF00;
+    }
+
+    .dataset-table {
+      margin: 20px auto;
+      border-collapse: collapse;
+      background-color: #000080;
+      border: 3px solid #FF00FF;
+      max-width: 800px;
+      width: 90%;
+    }
+
+    .dataset-table th {
+      background-color: #800080;
+      color: #FFFFFF;
+      padding: 8px 12px;
+      border: 2px solid #FF00FF;
+      font-size: 1.1em;
+    }
+
+    .dataset-table td {
+      padding: 6px 12px;
+      border: 1px solid #009999;
+      text-align: left;
+    }
+
+    .dataset-table td:first-child {
+      text-align: center;
+      font-weight: bold;
+      color: #FFFFFF;
+      width: 40px;
+    }
+
+    .dataset-table td:nth-child(3) {
+      text-align: center;
+      color: #00FFFF;
+      width: 50px;
+    }
+
+    .dataset-table td:nth-child(4) {
+      text-align: center;
+      color: #00FFFF;
+      width: 50px;
+    }
+
+    .dataset-table tr:nth-child(even) {
+      background-color: #000066;
+    }
+
+    .dataset-table a {
+      color: #00FF00;
+      text-decoration: underline;
+      font-weight: bold;
+    }
+
+    .dataset-table a:hover {
+      color: #FFFF00;
+      text-decoration: none;
+    }
+
+    .dataset-table a:visited {
+      color: #FF6600;
+    }
+
+    .stars {
+      font-size: 1.2em;
+      letter-spacing: 4px;
+      color: #FFFF00;
+    }
+
+    .construction {
+      font-size: 0.95em;
+      color: #FF6600;
+      margin-top: 30px;
+      padding: 10px;
+      border: 2px dashed #FF6600;
+      display: inline-block;
+    }
+
+    .footer {
+      margin-top: 30px;
+      font-size: 0.85em;
+      color: #CCCCCC;
+    }
+
+    .footer a {
+      color: #00FFFF;
+    }
+
+    .counter {
+      margin-top: 15px;
+      font-size: 0.8em;
+      color: #AAAAAA;
+    }
+
+    .counter span {
+      background-color: #000000;
+      color: #00FF00;
+      padding: 2px 6px;
+      font-family: "Courier New", monospace;
+      border: 1px inset #888888;
+    }
+
+    marquee {
+      color: #FF0000;
+      font-weight: bold;
+      font-size: 1.1em;
+      background-color: #FFFF00;
+      padding: 4px;
+      margin: 10px 0;
+    }
+  </style>
+</head>
+<body>
+
+  <p class="stars">* * * * * * * * * * * * * * *</p>
+
+  <h1>~*~ R Practice Datasets ~*~</h1>
+  <h2>Fun Teaching Datasets for Statistics &amp; Data Science</h2>
+
+  <p class="stars">* * * * * * * * * * * * * * *</p>
+
+  <marquee scrollamount="4">Welcome to the R Practice Datasets Page! Bookmark this page!</marquee>
+
+  <hr>
+
+  <div class="description">
+    <strong>What is this page?</strong><br><br>
+    This is a collection of <strong>20 fun, simulated datasets</strong> designed for teaching
+    introductory and intermediate statistics courses using R. Instead of boring, generic data,
+    students get to work with Star Wars characters, Hogwarts grades, zombie survival scenarios,
+    and more &mdash; all while learning real statistical concepts like regression, ANOVA, chi-square
+    tests, and data visualization.<br><br>
+    Each dataset is a CSV file ready to download and load straight into R. Sample sizes range from
+    75 to 2,000 observations with realistic variable distributions, including intentional missing
+    data for teaching opportunities. Click any dataset below to download it!<br><br>
+    <strong>Instructional videos coming soon!</strong>
+  </div>
+
+  <hr>
+
+  <h2>:: Download the Datasets ::</h2>
+
+  <table class="dataset-table">
+    <tr>
+      <th>#</th>
+      <th>Dataset</th>
+      <th>N</th>
+      <th>Vars</th>
+      <th>Good For Teaching</th>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td><a href="01_star_wars_characters.csv">Star Wars Characters</a></td>
+      <td>87</td>
+      <td>9</td>
+      <td>Descriptive stats, group comparisons</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td><a href="02_college_rankings.csv">College Rankings</a></td>
+      <td>250</td>
+      <td>12</td>
+      <td>Multiple regression, correlation matrices</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td><a href="03_nba_player_stats.csv">NBA Player Stats</a></td>
+      <td>450</td>
+      <td>14</td>
+      <td>Missing data, log transformations, prediction</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td><a href="04_movie_box_office.csv">Movie Box Office</a></td>
+      <td>500</td>
+      <td>12</td>
+      <td>Regression, interaction effects, dummy variables</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td><a href="05_coffee_shop_sales.csv">Coffee Shop Sales</a></td>
+      <td>1,000</td>
+      <td>10</td>
+      <td>Frequency tables, chi-square, ANOVA</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td><a href="06_pokemon_battle_stats.csv">Pok&eacute;mon Battle Stats</a></td>
+      <td>151</td>
+      <td>13</td>
+      <td>Computed variables, t-tests, distributions</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td><a href="07_spotify_streaming.csv">Spotify Streaming</a></td>
+      <td>800</td>
+      <td>12</td>
+      <td>Correlation, beta regression, skewness</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td><a href="08_superheroes_power_index.csv">Superheroes Power Index</a></td>
+      <td>120</td>
+      <td>12</td>
+      <td>Factor analysis, clustering, group comparisons</td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td><a href="09_fast_food_nutrition.csv">Fast Food Nutrition</a></td>
+      <td>300</td>
+      <td>11</td>
+      <td>ANOVA, post-hoc tests, data visualization</td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td><a href="10_dog_breeds.csv">Dog Breeds</a></td>
+      <td>195</td>
+      <td>12</td>
+      <td>Rank data, logistic regression, scatterplots</td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td><a href="11_video_game_sales.csv">Video Game Sales</a></td>
+      <td>600</td>
+      <td>12</td>
+      <td>Dummy coding, moderation, multi-level categories</td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td><a href="12_airline_flights.csv">Airline Flights</a></td>
+      <td>2,000</td>
+      <td>12</td>
+      <td>Large-N analysis, binary outcomes, distributions</td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td><a href="13_world_cup_soccer.csv">World Cup Soccer</a></td>
+      <td>350</td>
+      <td>12</td>
+      <td>Count models (Poisson), skewed continuous vars</td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td><a href="14_theme_park_rides.csv">Theme Park Rides</a></td>
+      <td>75</td>
+      <td>12</td>
+      <td>Small-N issues, outliers, assumption checking</td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td><a href="15_mars_colony_simulation.csv">Mars Colony Simulation</a></td>
+      <td>200</td>
+      <td>11</td>
+      <td>Continuous outcomes, multivariate relationships</td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td><a href="16_hogwarts_student_records.csv">Hogwarts Student Records</a></td>
+      <td>280</td>
+      <td>12</td>
+      <td>ANOVA, nested designs, proportions</td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td><a href="17_shark_tank_pitches.csv">Shark Tank Pitches</a></td>
+      <td>180</td>
+      <td>12</td>
+      <td>Logistic regression, odds ratios, decision modeling</td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td><a href="18_climate_city_data.csv">Climate &amp; City Data</a></td>
+      <td>150</td>
+      <td>12</td>
+      <td>Multicollinearity, index variables, scatterplot matrices</td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td><a href="19_craft_beer.csv">Craft Beer</a></td>
+      <td>400</td>
+      <td>12</td>
+      <td>Ordinal data, ratings, grouped bar charts</td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td><a href="20_zombie_apocalypse_survival.csv">Zombie Apocalypse Survival</a></td>
+      <td>500</td>
+      <td>13</td>
+      <td>Survival-style analysis, mixed variable types</td>
+    </tr>
+  </table>
+
+  <hr>
+
+  <div class="construction">
+    &#9888; UNDER CONSTRUCTION &#9888;<br>
+    Instructional videos will be added here soon. Stay tuned!
+  </div>
+
+  <div class="footer">
+    <p>
+      All datasets are simulated for educational purposes | Licensed under
+      <a href="LICENSE">MIT License</a><br>
+      Source: <a href="https://github.com/jmfreder123/R-practice-datsets">GitHub Repository</a>
+    </p>
+  </div>
+
+  <div class="counter">
+    You are visitor number <span>000427</span> since February 2026
+  </div>
+
+  <p class="stars">* * * * * * * * * * * * * * *</p>
+
+</body>
+</html>
